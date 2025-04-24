@@ -1,0 +1,2348 @@
+{
+  "verbs": [
+    {
+      "french_infinitive": "aimer",
+      "conjugations": {
+        "je": "aime",
+        "tu": "aimes",
+        "il/elle": "aime",
+        "nous": "aimons",
+        "vous": "aimez",
+        "ils/elles": "aiment"
+      },
+      "translations": {
+        "english": "love",
+        "russian": "любить",
+        "german": "lieben",
+        "spanish": "amar"
+      }
+    },
+    {
+      "french_infinitive": "aller",
+      "conjugations": {
+        "je": "vais",
+        "tu": "vas",
+        "il/elle": "va",
+        "nous": "allons",
+        "vous": "allez",
+        "ils/elles": "vont"
+      },
+      "translations": {
+        "english": "go",
+        "russian": "идти",
+        "german": "gehen",
+        "spanish": "ir"
+      }
+    },
+    {
+      "french_infinitive": "appeler",
+      "conjugations": {
+        "je": "appelle",
+        "tu": "appelles",
+        "il/elle": "appelle",
+        "nous": "appelons",
+        "vous": "appelez",
+        "ils/elles": "appellent"
+      },
+      "translations": {
+        "english": "call",
+        "russian": "звонить",
+        "german": "anrufen",
+        "spanish": "llamar"
+      }
+    },
+    {
+      "french_infinitive": "apprendre",
+      "conjugations": {
+        "je": "apprends",
+        "tu": "apprends",
+        "il/elle": "apprend",
+        "nous": "apprenons",
+        "vous": "apprenez",
+        "ils/elles": "apprennent"
+      },
+      "translations": {
+        "english": "learn",
+        "russian": "учиться",
+        "german": "lernen",
+        "spanish": "aprender"
+      }
+    },
+    {
+      "french_infinitive": "attendre",
+      "conjugations": {
+        "je": "attends",
+        "tu": "attends",
+        "il/elle": "attend",
+        "nous": "attendons",
+        "vous": "attendez",
+        "ils/elles": "attendent"
+      },
+      "translations": {
+        "english": "wait",
+        "russian": "ждать",
+        "german": "warten",
+        "spanish": "esperar"
+      }
+    },
+    {
+      "french_infinitive": "avoir",
+      "conjugations": {
+        "je": "ai",
+        "tu": "as",
+        "il/elle": "a",
+        "nous": "avons",
+        "vous": "avez",
+        "ils/elles": "ont"
+      },
+      "translations": {
+        "english": "have",
+        "russian": "иметь",
+        "german": "haben",
+        "spanish": "tener"
+      }
+    },
+    {
+      "french_infinitive": "boire",
+      "conjugations": {
+        "je": "bois",
+        "tu": "bois",
+        "il/elle": "boit",
+        "nous": "buvons",
+        "vous": "buvez",
+        "ils/elles": "boivent"
+      },
+      "translations": {
+        "english": "drink",
+        "russian": "пить",
+        "german": "trinken",
+        "spanish": "beber"
+      }
+    },
+    {
+      "french_infinitive": "choisir",
+      "conjugations": {
+        "je": "choisis",
+        "tu": "choisis",
+        "il/elle": "choisit",
+        "nous": "choisissons",
+        "vous": "choisissez",
+        "ils/elles": "choisissent"
+      },
+      "translations": {
+        "english": "choose",
+        "russian": "выбирать",
+        "german": "wählen",
+        "spanish": "escoger"
+      }
+    },
+    {
+      "french_infinitive": "commencer",
+      "conjugations": {
+        "je": "commence",
+        "tu": "commences",
+        "il/elle": "commence",
+        "nous": "commençons",
+        "vous": "commencez",
+        "ils/elles": "commencent"
+      },
+      "translations": {
+        "english": "begin",
+        "russian": "начинать",
+        "german": "beginnen",
+        "spanish": "comenzar"
+      }
+    },
+    {
+      "french_infinitive": "comprendre",
+      "conjugations": {
+        "je": "comprends",
+        "tu": "comprends",
+        "il/elle": "comprend",
+        "nous": "comprenons",
+        "vous": "comprenez",
+        "ils/elles": "comprennent"
+      },
+      "translations": {
+        "english": "understand",
+        "russian": "понимать",
+        "german": "verstehen",
+        "spanish": "comprender"
+      }
+    },
+    {
+      "french_infinitive": "conduire",
+      "conjugations": {
+        "je": "conduis",
+        "tu": "conduis",
+        "il/elle": "conduit",
+        "nous": "conduisons",
+        "vous": "conduisez",
+        "ils/elles": "conduisent"
+      },
+      "translations": {
+        "english": "drive",
+        "russian": "водить",
+        "german": "fahren",
+        "spanish": "conducir"
+      }
+    },
+    {
+      "french_infinitive": "connaître",
+      "conjugations": {
+        "je": "connais",
+        "tu": "connais",
+        "il/elle": "connaît",
+        "nous": "connaissons",
+        "vous": "connaissez",
+        "ils/elles": "connaissent"
+      },
+      "translations": {
+        "english": "know",
+        "russian": "знать",
+        "german": "kennen",
+        "spanish": "conocer"
+      }
+    },
+    {
+      "french_infinitive": "courir",
+      "conjugations": {
+        "je": "cours",
+        "tu": "cours",
+        "il/elle": "court",
+        "nous": "courons",
+        "vous": "courez",
+        "ils/elles": "courent"
+      },
+      "translations": {
+        "english": "run",
+        "russian": "бегать",
+        "german": "laufen",
+        "spanish": "correr"
+      }
+    },
+    {
+      "french_infinitive": "croire",
+      "conjugations": {
+        "je": "crois",
+        "tu": "crois",
+        "il/elle": "croit",
+        "nous": "croyons",
+        "vous": "croyez",
+        "ils/elles": "croient"
+      },
+      "translations": {
+        "english": "believe",
+        "russian": "верить",
+        "german": "glauben",
+        "spanish": "creer"
+      }
+    },
+    {
+      "french_infinitive": "décrire",
+      "conjugations": {
+        "je": "décris",
+        "tu": "décris",
+        "il/elle": "décrit",
+        "nous": "décrivons",
+        "vous": "décrivez",
+        "ils/elles": "décrivent"
+      },
+      "translations": {
+        "english": "describe",
+        "russian": "описывать",
+        "german": "beschreiben",
+        "spanish": "describir"
+      }
+    },
+    {
+      "french_infinitive": "défendre",
+      "conjugations": {
+        "je": "défends",
+        "tu": "défends",
+        "il/elle": "défend",
+        "nous": "défendons",
+        "vous": "défendez",
+        "ils/elles": "défendent"
+      },
+      "translations": {
+        "english": "defend",
+        "russian": "защищать",
+        "german": "verteidigen",
+        "spanish": "defender"
+      }
+    },
+    {
+      "french_infinitive": "descendre",
+      "conjugations": {
+        "je": "descends",
+        "tu": "descends",
+        "il/elle": "descend",
+        "nous": "descendons",
+        "vous": "descendez",
+        "ils/elles": "descendent"
+      },
+      "translations": {
+        "english": "go down",
+        "russian": "спускаться",
+        "german": "heruntergehen",
+        "spanish": "descender"
+      }
+    },
+    {
+      "french_infinitive": "devoir",
+      "conjugations": {
+        "je": "dois",
+        "tu": "dois",
+        "il/elle": "doit",
+        "nous": "devons",
+        "vous": "devez",
+        "ils/elles": "doivent"
+      },
+      "translations": {
+        "english": "must do",
+        "russian": "должен",
+        "german": "müssen",
+        "spanish": "deber"
+      }
+    },
+    {
+      "french_infinitive": "dire",
+      "conjugations": {
+        "je": "dis",
+        "tu": "dis",
+        "il/elle": "dit",
+        "nous": "disons",
+        "vous": "disez",
+        "ils/elles": "disent"
+      },
+      "translations": {
+        "english": "tell",
+        "russian": "говорить",
+        "german": "sagen",
+        "spanish": "decir"
+      }
+    },
+    {
+      "french_infinitive": "dormir",
+      "conjugations": {
+        "je": "dors",
+        "tu": "dors",
+        "il/elle": "dort",
+        "nous": "dormons",
+        "vous": "dormez",
+        "ils/elles": "dorment"
+      },
+      "translations": {
+        "english": "sleep",
+        "russian": "спать",
+        "german": "schlafen",
+        "spanish": "dormir"
+      }
+    },
+    {
+      "french_infinitive": "écrire",
+      "conjugations": {
+        "je": "écris",
+        "tu": "écris",
+        "il/elle": "écrit",
+        "nous": "écrivons",
+        "vous": "écrivez",
+        "ils/elles": "écrivent"
+      },
+      "translations": {
+        "english": "write",
+        "russian": "писать",
+        "german": "schreiben",
+        "spanish": "escribir"
+      }
+    },
+    {
+      "french_infinitive": "entendre",
+      "conjugations": {
+        "je": "entends",
+        "tu": "entends",
+        "il/elle": "entend",
+        "nous": "entendons",
+        "vous": "entendez",
+        "ils/elles": "entendent"
+      },
+      "translations": {
+        "english": "hear",
+        "russian": "слышать",
+        "german": "hören",
+        "spanish": "entender"
+      }
+    },
+    {
+      "french_infinitive": "envoyer",
+      "conjugations": {
+        "je": "envoie",
+        "tu": "envoies",
+        "il/elle": "envoie",
+        "nous": "envoyons",
+        "vous": "envoyez",
+        "ils/elles": "envoient"
+      },
+      "translations": {
+        "english": "send",
+        "russian": "отправлять",
+        "german": "senden",
+        "spanish": "enviar"
+      }
+    },
+    {
+      "french_infinitive": "être",
+      "conjugations": {
+        "je": "suis",
+        "tu": "es",
+        "il/elle": "est",
+        "nous": "sommes",
+        "vous": "êtes",
+        "ils/elles": "sont"
+      },
+      "translations": {
+        "english": "be",
+        "russian": "быть",
+        "german": "sein",
+        "spanish": "estar / ser"
+      }
+    },
+    {
+      "french_infinitive": "faire",
+      "conjugations": {
+        "je": "fais",
+        "tu": "fais",
+        "il/elle": "fait",
+        "nous": "faisons",
+        "vous": "faites",
+        "ils/elles": "font"
+      },
+      "translations": {
+        "english": "do",
+        "russian": "делать",
+        "german": "machen",
+        "spanish": "hacer"
+      }
+    },
+    {
+      "french_infinitive": "finir",
+      "conjugations": {
+        "je": "finis",
+        "tu": "finis",
+        "il/elle": "finit",
+        "nous": "finissons",
+        "vous": "finissez",
+        "ils/elles": "finissent"
+      },
+      "translations": {
+        "english": "finish",
+        "russian": "заканчивать",
+        "german": "beenden",
+        "spanish": "acabar / terminar"
+      }
+    },
+    {
+      "french_infinitive": "lire",
+      "conjugations": {
+        "je": "lis",
+        "tu": "lis",
+        "il/elle": "lit",
+        "nous": "lisons",
+        "vous": "lisez",
+        "ils/elles": "lisent"
+      },
+      "translations": {
+        "english": "read",
+        "russian": "читать",
+        "german": "lesen",
+        "spanish": "leer"
+      }
+    },
+    {
+      "french_infinitive": "manger",
+      "conjugations": {
+        "je": "mange",
+        "tu": "manges",
+        "il/elle": "mange",
+        "nous": "mangeons",
+        "vous": "mangez",
+        "ils/elles": "mangent"
+      },
+      "translations": {
+        "english": "eat",
+        "russian": "есть",
+        "german": "essen",
+        "spanish": "comer"
+      }
+    },
+    {
+      "french_infinitive": "mettre",
+      "conjugations": {
+        "je": "mets",
+        "tu": "mets",
+        "il/elle": "met",
+        "nous": "mettons",
+        "vous": "mettez",
+        "ils/elles": "mettent"
+      },
+      "translations": {
+        "english": "put",
+        "russian": "класть",
+        "german": "legen",
+        "spanish": "poner"
+      }
+    },
+    {
+      "french_infinitive": "mourir",
+      "conjugations": {
+        "je": "meurs",
+        "tu": "meurs",
+        "il/elle": "meurt",
+        "nous": "mourons",
+        "vous": "mourez",
+        "ils/elles": "meurent"
+      },
+      "translations": {
+        "english": "die",
+        "russian": "умирать",
+        "german": "sterben",
+        "spanish": "morir(se)"
+      }
+    },
+    {
+      "french_infinitive": "nettoyer",
+      "conjugations": {
+        "je": "nettoie",
+        "tu": "nettoies",
+        "il/elle": "nettoie",
+        "nous": "nettoyons",
+        "vous": "nettoyez",
+        "ils/elles": "nettoient"
+      },
+      "translations": {
+        "english": "clean",
+        "russian": "чистить",
+        "german": "reinigen",
+        "spanish": "limpiar"
+      }
+    },
+    {
+      "french_infinitive": "ouvrir",
+      "conjugations": {
+        "je": "ouvre",
+        "tu": "ouvres",
+        "il/elle": "ouvre",
+        "nous": "ouvrons",
+        "vous": "ouvrez",
+        "ils/elles": "ouvrent"
+      },
+      "translations": {
+        "english": "open",
+        "russian": "открывать",
+        "german": "öffnen",
+        "spanish": "abrir"
+      }
+    },
+    {
+      "french_infinitive": "partir",
+      "conjugations": {
+        "je": "pars",
+        "tu": "pars",
+        "il/elle": "part",
+        "nous": "partons",
+        "vous": "partez",
+        "ils/elles": "partent"
+      },
+      "translations": {
+        "english": "go",
+        "russian": "уходить",
+        "german": "gehen",
+        "spanish": "partir"
+      }
+    },
+    {
+      "french_infinitive": "penser",
+      "conjugations": {
+        "je": "pense",
+        "tu": "penses",
+        "il/elle": "pense",
+        "nous": "pensons",
+        "vous": "pensez",
+        "ils/elles": "pensent"
+      },
+      "translations": {
+        "english": "think",
+        "russian": "думать",
+        "german": "denken",
+        "spanish": "pensar"
+      }
+    },
+    {
+      "french_infinitive": "pleuvoir",
+      "conjugations": {
+        "je": "-",
+        "tu": "-",
+        "il/elle": "pleut",
+        "nous": "-",
+        "vous": "-",
+        "ils/elles": "-"
+      },
+      "translations": {
+        "english": "rain",
+        "russian": "идти дождь",
+        "german": "regnen",
+        "spanish": "llover"
+      }
+    },
+    {
+      "french_infinitive": "pouvoir",
+      "conjugations": {
+        "je": "peux",
+        "tu": "peux",
+        "il/elle": "peut",
+        "nous": "pouvons",
+        "vous": "pouvez",
+        "ils/elles": "peuvent"
+      },
+      "translations": {
+        "english": "be able",
+        "russian": "мочь",
+        "german": "können",
+        "spanish": "poder"
+      }
+    },
+    {
+      "french_infinitive": "prendre",
+      "conjugations": {
+        "je": "prends",
+        "tu": "prends",
+        "il/elle": "prend",
+        "nous": "prenons",
+        "vous": "prenez",
+        "ils/elles": "prennent"
+      },
+      "translations": {
+        "english": "take",
+        "russian": "брать",
+        "german": "nehmen",
+        "spanish": "tomar"
+      }
+    },
+    {
+      "french_infinitive": "promettre",
+      "conjugations": {
+        "je": "promets",
+        "tu": "promets",
+        "れるil/elle": "promet",
+        "nous": "promettons",
+        "vous": "promettez",
+        "ils/elles": "promettent"
+      },
+      "translations": {
+        "english": "promise",
+        "russian": "обещать",
+        "german": "versprechen",
+        "spanish": "prometer"
+      }
+    },
+    {
+      "french_infinitive": "recevoir",
+      "conjugations": {
+        "je": "reçois",
+        "tu": "reçois",
+        "il/elle": "reçoit",
+        "nous": "recevons",
+        "vous": "recevez",
+        "ils/elles": "reçoivent"
+      },
+      "translations": {
+        "english": "receive",
+        "russian": "получать",
+        "german": "empfangen",
+        "spanish": "recibir"
+      }
+    },
+    {
+      "french_infinitive": "réussir",
+      "conjugations": {
+        "je": "réussis",
+        "tu": "réussis",
+        "il/elle": "réussit",
+        "nous": "réussissons",
+        "vous": "réussissez",
+        "ils/elles": "réussissent"
+      },
+      "translations": {
+        "english": "succeed",
+        "russian": "успевать",
+        "german": "erfolgreich sein",
+        "spanish": "tener éxito"
+      }
+    },
+    {
+      "french_infinitive": "réfléchir",
+      "conjugations": {
+        "je": "réfléchis",
+        "tu": "réfléchis",
+        "il/elle": "réfléchit",
+        "nous": "réfléchissons",
+        "vous": "réfléchissez",
+        "ils/elles": "réfléchissent"
+      },
+      "translations": {
+        "english": "think",
+        "russian": "размышлять",
+        "german": "nachdenken",
+        "spanish": "reflexionar"
+      }
+    },
+    {
+      "french_infinitive": "regarder",
+      "conjugations": {
+        "je": "regarde",
+        "tu": "regardes",
+        "il/elle": "regarde",
+        "nous": "regardons",
+        "vous": "regardez",
+        "ils/elles": "regardent"
+      },
+      "translations": {
+        "english": "look",
+        "russian": "смотреть",
+        "german": "schauen",
+        "spanish": "mirar"
+      }
+    },
+    {
+      "french_infinitive": "remplir",
+      "conjugations": {
+        "je": "remplis",
+        "tu": "remplis",
+        "il/elle": "remplit",
+        "nous": "remplissons",
+        "vous": "remplissez",
+        "ils/elles": "remplissent"
+      },
+      "translations": {
+        "english": "fill",
+        "russian": "наполнять",
+        "german": "füllen",
+        "spanish": "llenar"
+      }
+    },
+    {
+      "french_infinitive": "rendre",
+      "conjugations": {
+        "je": "rends",
+        "tu": "rends",
+        "il/elle": "rend",
+        "nous": "rendons",
+        "vous": "rendez",
+        "ils/elles": "rendent"
+      },
+      "translations": {
+        "english": "return",
+        "russian": "возвращать",
+        "german": "zurückgeben",
+        "spanish": "devolver"
+      }
+    },
+    {
+      "french_infinitive": "repondre",
+      "conjugations": {
+        "je": "réponds",
+        "tu": "réponds",
+        "il/elle": "répond",
+        "nous": "répondons",
+        "vous": "répondez",
+        "ils/elles": "répondent"
+      },
+      "translations": {
+        "english": "answer",
+        "russian": "отвечать",
+        "german": "antworten",
+        "spanish": "responder"
+      }
+    },
+    {
+      "french_infinitive": "ressentir",
+      "conjugations": {
+        "je": "ressens",
+        "tu": "ressens",
+        "il/elle": "ressent",
+        "nous": "ressentons",
+        "vous": "ressentez",
+        "ils/elles": "ressentent"
+      },
+      "translations": {
+        "english": "feel",
+        "russian": "чувствовать",
+        "german": "fühlen",
+        "spanish": "sentir"
+      }
+    },
+    {
+      "french_infinitive": "savoir",
+      "conjugations": {
+        "je": "sais",
+        "tu": "sais",
+        "il/elle": "sait",
+        "nous": "savons",
+        "vous": "savez",
+        "ils/elles": "savent"
+      },
+      "translations": {
+        "english": "know",
+        "russian": "знать",
+        "german": "wissen",
+        "spanish": "saber"
+      }
+    },
+    {
+      "french_infinitive": "sortir",
+      "conjugations": {
+        "je": "sors",
+        "tu": "sors",
+        "il/elle": "sort",
+        "nous": "sortons",
+        "vous": "sortez",
+        "ils/elles": "sortent"
+      },
+      "translations": {
+        "english": "go out",
+        "russian": "выходить",
+        "german": "ausgehen",
+        "spanish": "salir"
+      }
+    },
+    {
+      "french_infinitive": "tenir",
+      "conjugations": {
+        "je": "tiens",
+        "tu": "tiens",
+        "il/elle": "tient",
+        "nous": "tenons",
+        "vous": "tenez",
+        "ils/elles": "tiennent"
+      },
+      "translations": {
+        "english": "hold",
+        "russian": "держать",
+        "german": "halten",
+        "spanish": "tener"
+      }
+    },
+    {
+      "french_infinitive": "tousser",
+      "conjugations": {
+        "je": "tousse",
+        "tu": "tousses",
+        "il/elle": "tousse",
+        "nous": "toussons",
+        "vous": "toussez",
+        "ils/elles": "toussent"
+      },
+      "translations": {
+        "english": "cough",
+        "russian": "кашлять",
+        "german": "husten",
+        "spanish": "toser"
+      }
+    },
+    {
+      "french_infinitive": "vendre",
+      "conjugations": {
+        "je": "vends",
+        "tu": "vends",
+        "il/elle": "vend",
+        "nous": "vendons",
+        "vous": "vendez",
+        "ils/elles": "vendent"
+      },
+      "translations": {
+        "english": "sell",
+        "russian": "продавать",
+        "german": "verkaufen",
+        "spanish": "vender"
+      }
+    },
+    {
+      "french_infinitive": "venir",
+      "conjugations": {
+        "je": "viens",
+        "tu": "viens",
+        "il/elle": "vient",
+        "nous": "venons",
+        "vous": "venez",
+        "ils/elles": "viennent"
+      },
+      "translations": {
+        "english": "come",
+        "russian": "приходить",
+        "german": "kommen",
+        "spanish": "venir"
+      }
+    },
+    {
+      "french_infinitive": "vivre",
+      "conjugations": {
+        "je": "vis",
+        "tu": "vis",
+        "il/elle": "vit",
+        "nous": "vivons",
+        "vous": "vivez",
+        "ils/elles": "vivent"
+      },
+      "translations": {
+        "english": "live",
+        "russian": "жить",
+        "german": "leben",
+        "spanish": "vivir"
+      }
+    },
+    {
+      "french_infinitive": "voir",
+      "conjugations": {
+        "je": "vois",
+        "tu": "vois",
+        "il/elle": "voit",
+        "nous": "voyons",
+        "vous": "voyez",
+        "ils/elles": "voient"
+      },
+      "translations": {
+        "english": "see",
+        "russian": "видеть",
+        "german": "sehen",
+        "spanish": "ver"
+      }
+    },
+    {
+      "french_infinitive": "vouloir",
+      "conjugations": {
+        "je": "veux",
+        "tu": "veux",
+        "il/elle": "veut",
+        "nous": "voulons",
+        "vous": "voulez",
+        "ils/elles": "veulent"
+      },
+      "translations": {
+        "english": "want",
+        "russian": "хотеть",
+        "german": "wollen",
+        "spanish": "querer"
+      }
+    }
+  ],
+  "other_words": [
+    {
+      "french": "bonjour",
+      "type": "greeting",
+      "translations": {
+        "english": "hello",
+        "russian": "привет",
+        "german": "hallo",
+        "spanish": "hola"
+      }
+    },
+    {
+      "french": "monsieur",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "sir",
+        "russian": "господин",
+        "german": "Herr",
+        "spanish": "señor"
+      }
+    },
+    {
+      "french": "madame",
+      "type": "noun",
+      "article": "",
+      "gender": "feminine",
+      "translations": {
+        "english": "madam",
+        "russian": "госпожа",
+        "german": "Frau",
+        "spanish": "señora"
+      }
+    },
+    {
+      "french": "salut",
+      "type": "greeting",
+      "translations": {
+        "english": "hi",
+        "russian": "привет",
+        "german": "hallo",
+        "spanish": "hola"
+      }
+    },
+    {
+      "french": "merci",
+      "type": "expression",
+      "translations": {
+        "english": "thank you",
+        "russian": "спасибо",
+        "german": "danke",
+        "spanish": "gracias"
+      }
+    },
+    {
+      "french": "au revoir",
+      "type": "expression",
+      "translations": {
+        "english": "goodbye",
+        "russian": "до свидания",
+        "german": "auf Wiedersehen",
+        "spanish": "adiós"
+      }
+    },
+    {
+      "french": "à bientôt",
+      "type": "expression",
+      "translations": {
+        "english": "see you soon",
+        "russian": "скоро увидимся",
+        "german": "bis bald",
+        "spanish": "hasta pronto"
+      }
+    },
+    {
+      "french": "à plus tard",
+      "type": "expression",
+      "translations": {
+        "english": "see you later",
+        "russian": "увидимся позже",
+        "german": "bis später",
+        "spanish": "hasta luego"
+      }
+    },
+    {
+      "french": "à tantôt",
+      "type": "expression",
+      "translations": {
+        "english": "see you later",
+        "russian": "увидимся позже",
+        "german": "bis später",
+        "spanish": "hasta luego"
+      }
+    },
+    {
+      "french": "excuse-moi",
+      "type": "expression",
+      "translations": {
+        "english": "excuse me",
+        "russian": "извини меня",
+        "german": "entschuldige mich",
+        "spanish": "perdóname"
+      }
+    },
+    {
+      "french": "s'il vous plaît",
+      "type": "expression",
+      "translations": {
+        "english": "please",
+        "russian": "пожалуйста",
+        "german": "bitte",
+        "spanish": "por favor"
+      }
+    },
+    {
+      "french": "pardon",
+      "type": "expression",
+      "translations": {
+        "english": "sorry",
+        "russian": "извините",
+        "german": "entschuldigung",
+        "spanish": "perdón"
+      }
+    },
+    {
+      "french": "désolé",
+      "type": "expression",
+      "translations": {
+        "english": "sorry",
+        "russian": "извините",
+        "german": "entschuldigung",
+        "spanish": "lo siento"
+      }
+    },
+    {
+      "french": "allo",
+      "type": "greeting",
+      "translations": {
+        "english": "hello (on phone)",
+        "russian": "алло",
+        "german": "hallo",
+        "spanish": "hola"
+      }
+    },
+    {
+      "french": "je",
+      "type": "pronoun",
+      "translations": {
+        "english": "I",
+        "russian": "я",
+        "german": "ich",
+        "spanish": "yo"
+      }
+    },
+    {
+      "french": "tu",
+      "type": "pronoun",
+      "translations": {
+        "english": "you (informal)",
+        "russian": "ты",
+        "german": "du",
+        "spanish": "tú"
+      }
+    },
+    {
+      "french": "il",
+      "type": "pronoun",
+      "translations": {
+        "english": "he",
+        "russian": "он",
+        "german": "er",
+        "spanish": "él"
+      }
+    },
+    {
+      "french": "elle",
+      "type": "pronoun",
+      "translations": {
+        "english": "she",
+        "russian": "она",
+        "german": "sie",
+        "spanish": "ella"
+      }
+    },
+    {
+      "french": "on",
+      "type": "pronoun",
+      "translations": {
+        "english": "one/we",
+        "russian": "мы",
+        "german": "man",
+        "spanish": "uno"
+      }
+    },
+    {
+      "french": "nous",
+      "type": "pronoun",
+      "translations": {
+        "english": "we",
+        "russian": "мы",
+        "german": "wir",
+        "spanish": "nosotros"
+      }
+    },
+    {
+      "french": "vous",
+      "type": "pronoun",
+      "translations": {
+        "english": "you (formal/plural)",
+        "russian": "вы",
+        "german": "ihr/Sie",
+        "spanish": "vosotros/ustedes"
+      }
+    },
+    {
+      "french": "ils",
+      "type": "pronoun",
+      "translations": {
+        "english": "they (masculine)",
+        "russian": "они",
+        "german": "sie",
+        "spanish": "ellos"
+      }
+    },
+    {
+      "french": "elles",
+      "type": "pronoun",
+      "translations": {
+        "english": "they (feminine)",
+        "russian": "они",
+        "german": "sie",
+        "spanish": "ellas"
+      }
+    },
+    {
+      "french": "le/la/les",
+      "type": "article",
+      "translations": {
+        "english": "the",
+        "russian": "нет прямого перевода",
+        "german": "der/die/das",
+        "spanish": "el/la/los/las"
+      }
+    },
+    {
+      "french": "un/une/des",
+      "type": "article",
+      "translations": {
+        "english": "a/an/some",
+        "russian": "нет прямого перевода",
+        "german": "ein/eine",
+        "spanish": "un/una/unos/unas"
+      }
+    },
+    {
+      "french": "ce/cette/ces",
+      "type": "demonstrative",
+      "translations": {
+        "english": "this/that/these/those",
+        "russian": "этот/эта/эти",
+        "german": "dieser/diese/dieses",
+        "spanish": "este/esta/estos/estas"
+      }
+    },
+    {
+      "french": "mon/ma/mes",
+      "type": "possessive",
+      "translations": {
+        "english": "my",
+        "russian": "мой/моя/мои",
+        "german": "mein/meine",
+        "spanish": "mi/mis"
+      }
+    },
+    {
+      "french": "ton/ta/tes",
+      "type": "possessive",
+      "translations": {
+        "english": "your (informal)",
+        "russian": "твой/твоя/твои",
+        "german": "dein/deine",
+        "spanish": "tu/tus"
+      }
+    },
+    {
+      "french": "son/sa/ses",
+      "type": "possessive",
+      "translations": {
+        "english": "his/her/its",
+        "russian": "его/её",
+        "german": "sein/seine",
+        "spanish": "su/sus"
+      }
+    },
+    {
+      "french": "notre",
+      "type": "possessive",
+      "translations": {
+        "english": "our",
+        "russian": "наш/наша",
+        "german": "unser/unsere",
+        "spanish": "nuestro/nuestra"
+      }
+    },
+    {
+      "french": "votre",
+      "type": "possessive",
+      "translations": {
+        "english": "your (formal/plural)",
+        "russian": "ваш/ваша",
+        "german": "euer/eure",
+        "spanish": "vuestro/vuestra"
+      }
+    },
+    {
+      "french": "leur",
+      "type": "possessive",
+      "translations": {
+        "english": "their",
+        "russian": "их",
+        "german": "ihr/ihre",
+        "spanish": "su/sus"
+      }
+    },
+    {
+      "french": "qui",
+      "type": "question",
+      "translations": {
+        "english": "who",
+        "russian": "кто",
+        "german": "wer",
+        "spanish": "quién"
+      }
+    },
+    {
+      "french": "quand",
+      "type": "question",
+      "translations": {
+        "english": "when",
+        "russian": "когда",
+        "german": "wann",
+        "spanish": "cuándo"
+      }
+    },
+    {
+      "french": "où",
+      "type": "question",
+      "translations": {
+        "english": "where",
+        "russian": "где",
+        "german": "wo",
+        "spanish": "dónde"
+      }
+    },
+    {
+      "french": "pourquoi",
+      "type": "question",
+      "translations": {
+        "english": "why",
+        "russian": "почему",
+        "german": "warum",
+        "spanish": "por qué"
+      }
+    },
+    {
+      "french": "comment",
+      "type": "question",
+      "translations": {
+        "english": "how",
+        "russian": "как",
+        "german": "wie",
+        "spanish": "cómo"
+      }
+    },
+    {
+      "french": "combien",
+      "type": "question",
+      "translations": {
+        "english": "how much/many",
+        "russian": "сколько",
+        "german": "wie viel",
+        "spanish": "cuánto"
+      }
+    },
+    {
+      "french": "quel/quelle",
+      "type": "question",
+      "translations": {
+        "english": "which",
+        "russian": "какой/какая",
+        "german": "welcher/welche",
+        "spanish": "cuál"
+      }
+    },
+    {
+      "french": "oui",
+      "type": "response",
+      "translations": {
+        "english": "yes",
+        "russian": "да",
+        "german": "ja",
+        "spanish": "sí"
+      }
+    },
+    {
+      "french": "non",
+      "type": "response",
+      "translations": {
+        "english": "no",
+        "russian": "нет",
+        "german": "nein",
+        "spanish": "no"
+      }
+    },
+    {
+      "french": "d'accord",
+      "type": "response",
+      "translations": {
+        "english": "okay",
+        "russian": "хорошо",
+        "german": "in Ordnung",
+        "spanish": "de acuerdo"
+      }
+    },
+    {
+      "french": "peut-être",
+      "type": "response",
+      "translations": {
+        "english": "maybe",
+        "russian": "может быть",
+        "german": "vielleicht",
+        "spanish": "tal vez"
+      }
+    },
+    {
+      "french": "est-ce que",
+      "type": "question",
+      "translations": {
+        "english": "is it that",
+        "russian": "ли",
+        "german": "ist es, dass",
+        "spanish": "es que"
+      }
+    },
+    {
+      "french": "être",
+      "type": "verb",
+      "translations": {
+        "english": "to be",
+        "russian": "быть",
+        "german": "sein",
+        "spanish": "ser/estar"
+      }
+    },
+    {
+      "french": "avoir",
+      "type": "verb",
+      "translations": {
+        "english": "to have",
+        "russian": "иметь",
+        "german": "haben",
+        "spanish": "tener"
+      }
+    },
+    {
+      "french": "faire",
+      "type": "verb",
+      "translations": {
+        "english": "to do",
+        "russian": "делать",
+        "german": "machen",
+        "spanish": "hacer"
+      }
+    },
+    {
+      "french": "prendre",
+      "type": "verb",
+      "translations": {
+        "english": "to take",
+        "russian": "брать",
+        "german": "nehmen",
+        "spanish": "tomar"
+      }
+    },
+    {
+      "french": "aller",
+      "type": "verb",
+      "translations": {
+        "english": "to go",
+        "russian": "идти",
+        "german": "gehen",
+        "spanish": "ir"
+      }
+    },
+    {
+      "french": "mettre",
+      "type": "verb",
+      "translations": {
+        "english": "to put",
+        "russian": "класть",
+        "german": "legen",
+        "spanish": "poner"
+      }
+    },
+    {
+      "french": "vouloir",
+      "type": "verb",
+      "translations": {
+        "english": "to want",
+        "russian": "хотеть",
+        "german": "wollen",
+        "spanish": "querer"
+      }
+    },
+    {
+      "french": "pouvoir",
+      "type": "verb",
+      "translations": {
+        "english": "to be able",
+        "russian": "мочь",
+        "german": "können",
+        "spanish": "poder"
+      }
+    },
+    {
+      "french": "devoir",
+      "type": "verb",
+      "translations": {
+        "english": "to must",
+        "russian": "должен",
+        "german": "müssen",
+        "spanish": "deber"
+      }
+    },
+    {
+      "french": "falloir",
+      "type": "verb",
+      "translations": {
+        "english": "to be necessary",
+        "russian": "надо",
+        "german": "müssen",
+        "spanish": "falta"
+      }
+    },
+    {
+      "french": "parler",
+      "type": "verb",
+      "translations": {
+        "english": "to speak",
+        "russian": "говорить",
+        "german": "sprechen",
+        "spanish": "hablar"
+      }
+    },
+    {
+      "french": "dire",
+      "type": "verb",
+      "translations": {
+        "english": "to say",
+        "russian": "сказать",
+        "german": "sagen",
+        "spanish": "decir"
+      }
+    },
+    {
+      "french": "regarder",
+      "type": "verb",
+      "translations": {
+        "english": "to look",
+        "russian": "смотреть",
+        "german": "schauen",
+        "spanish": "mirar"
+      }
+    },
+    {
+      "french": "écrire",
+      "type": "verb",
+      "translations": {
+        "english": "to write",
+        "russian": "писать",
+        "german": "schreiben",
+        "spanish": "escribir"
+      }
+    },
+    {
+      "french": "lire",
+      "type": "verb",
+      "translations": {
+        "english": "to read",
+        "russian": "читать",
+        "german": "lesen",
+        "spanish": "leer"
+      }
+    },
+    {
+      "french": "aimer",
+      "type": "verb",
+      "translations": {
+        "english": "to love",
+        "russian": "любить",
+        "german": "lieben",
+        "spanish": "amar"
+      }
+    },
+    {
+      "french": "une famille",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "family",
+        "russian": "семья",
+        "german": "Familie",
+        "spanish": "familia"
+      }
+    },
+    {
+      "french": "un parent",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "parent",
+        "russian": "родитель",
+        "german": "Elternteil",
+        "spanish": "padre/madre"
+      }
+    },
+    {
+      "french": "une mère (maman)",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "mother (mom)",
+        "russian": "мать (мама)",
+        "german": "Mutter (Mama)",
+        "spanish": "madre (mamá)"
+      }
+    },
+    {
+      "french": "un père (papa)",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "father (dad)",
+        "russian": "отец (папа)",
+        "german": "Vater (Papa)",
+        "spanish": "padre (papá)"
+      }
+    },
+    {
+      "french": "une sœur",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "sister",
+        "russian": "сестра",
+        "german": "Schwester",
+        "spanish": "hermana"
+      }
+    },
+    {
+      "french": "un frère",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "brother",
+        "russian": "брат",
+        "german": "Bruder",
+        "spanish": "hermano"
+      }
+    },
+    {
+      "french": "une fille",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "girl/daughter",
+        "russian": "девушка/дочь",
+        "german": "Mädchen/Tochter",
+        "spanish": "niña/hija"
+      }
+    },
+    {
+      "french": "un fils",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "son",
+        "russian": "сын",
+        "german": "Sohn",
+        "spanish": "hijo"
+      }
+    },
+    {
+      "french": "un grand-parent",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "grandparent",
+        "russian": "бабушка/дедушка",
+        "german": "Großelternteil",
+        "spanish": "abuelo/abuela"
+      }
+    },
+    {
+      "french": "un grand-père",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "grandfather",
+        "russian": "дедушка",
+        "german": "Großvater",
+        "spanish": "abuelo"
+      }
+    },
+    {
+      "french": "une grand-mère",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "grandmother",
+        "russian": "бабушка",
+        "german": "Großmutter",
+        "spanish": "abuela"
+      }
+    },
+    {
+      "french": "un mari",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "husband",
+        "russian": "муж",
+        "german": "Ehemann",
+        "spanish": "marido"
+      }
+    },
+    {
+      "french": "une femme",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "woman/wife",
+        "russian": "женщина/жена",
+        "german": "Frau/Ehefrau",
+        "spanish": "mujer/esposa"
+      }
+    },
+    {
+      "french": "une cousine",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "cousin (female)",
+        "russian": "кузина",
+        "german": "Cousine",
+        "spanish": "prima"
+      }
+    },
+    {
+      "french": "une blonde",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "blonde",
+        "russian": "блондинка",
+        "german": "Blondine",
+        "spanish": "rubia"
+      }
+    },
+    {
+      "french": "un chum",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "boyfriend (Quebec)",
+        "russian": "парень",
+        "german": "Freund",
+        "spanish": "novio"
+      }
+    },
+    {
+      "french": "lundi",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "Monday",
+        "russian": "понедельник",
+        "german": "Montag",
+        "spanish": "lunes"
+      }
+    },
+    {
+      "french": "mardi",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "Tuesday",
+        "russian": "вторник",
+        "german": "Dienstag",
+        "spanish": "martes"
+      }
+    },
+    {
+      "french": "mercredi",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "Wednesday",
+        "russian": "среда",
+        "german": "Mittwoch",
+        "spanish": "miércoles"
+      }
+    },
+    {
+      "french": "jeudi",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "Thursday",
+        "russian": "четверг",
+        "german": "Donnerstag",
+        "spanish": "jueves"
+      }
+    },
+    {
+      "french": "vendredi",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "Friday",
+        "russian": "пятница",
+        "german": "Freitag",
+        "spanish": "viernes"
+      }
+    },
+    {
+      "french": "samedi",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "Saturday",
+        "russian": "суббота",
+        "german": "Samstag",
+        "spanish": "sábado"
+      }
+    },
+    {
+      "french": "dimanche",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "Sunday",
+        "russian": "воскресенье",
+        "german": "Sonntag",
+        "spanish": "domingo"
+      }
+    },
+    {
+      "french": "une semaine",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "week",
+        "russian": "неделя",
+        "german": "Woche",
+        "spanish": "semana"
+      }
+    },
+    {
+      "french": "un mois",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "month",
+        "russian": "месяц",
+        "german": "Monat",
+        "spanish": "mes"
+      }
+    },
+    {
+      "french": "janvier",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "January",
+        "russian": "январь",
+        "german": "Januar",
+        "spanish": "enero"
+      }
+    },
+    {
+      "french": "février",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "February",
+        "russian": "февраль",
+        "german": "Februar",
+        "spanish": "febrero"
+      }
+    },
+    {
+      "french": "mars",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "March",
+        "russian": "март",
+        "german": "März",
+        "spanish": "marzo"
+      }
+    },
+    {
+      "french": "avril",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "April",
+        "russian": "апрель",
+        "german": "April",
+        "spanish": "abril"
+      }
+    },
+    {
+      "french": "mai",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "May",
+        "russian": "май",
+        "german": "Mai",
+        "spanish": "mayo"
+      }
+    },
+    {
+      "french": "juin",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "June",
+        "russian": "июнь",
+        "german": "Juni",
+        "spanish": "junio"
+      }
+    },
+    {
+      "french": "juillet",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "July",
+        "russian": "июль",
+        "german": "Juli",
+        "spanish": "julio"
+      }
+    },
+    {
+      "french": "août",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "August",
+        "russian": "август",
+        "german": "August",
+        "spanish": "agosto"
+      }
+    },
+    {
+      "french": "septembre",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "September",
+        "russian": "сентябрь",
+        "german": "September",
+        "spanish": "septiembre"
+      }
+    },
+    {
+      "french": "octobre",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "October",
+        "russian": "октябрь",
+        "german": "Oktober",
+        "spanish": "octubre"
+      }
+    },
+    {
+      "french": "novembre",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "November",
+        "russian": "ноябрь",
+        "german": "November",
+        "spanish": "noviembre"
+      }
+    },
+    {
+      "french": "décembre",
+      "type": "noun",
+      "article": "",
+      "gender": "masculine",
+      "translations": {
+        "english": "December",
+        "russian": "декабрь",
+        "german": "Dezember",
+        "spanish": "diciembre"
+      }
+    },
+    {
+      "french": "une année",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "year",
+        "russian": "год",
+        "german": "Jahr",
+        "spanish": "año"
+      }
+    },
+    {
+      "french": "un an",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "year",
+        "russian": "год",
+        "german": "Jahr",
+        "spanish": "año"
+      }
+    },
+    {
+      "french": "une fin de semaine",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "weekend",
+        "russian": "выходные",
+        "german": "Wochenende",
+        "spanish": "fin de semana"
+      }
+    },
+    {
+      "french": "le matin",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "morning",
+        "russian": "утро",
+        "german": "Morgen",
+        "spanish": "mañana"
+      }
+    },
+    {
+      "french": "le midi",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "noon",
+        "russian": "полдень",
+        "german": "Mittag",
+        "spanish": "mediodía"
+      }
+    },
+    {
+      "french": "l'après-midi",
+      "type": "noun",
+      "article": "l'",
+      "gender": "masculine",
+      "translations": {
+        "english": "afternoon",
+        "russian": "день",
+        "german": "Nachmittag",
+        "spanish": "tarde"
+      }
+    },
+    {
+      "french": "le soir",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "evening",
+        "russian": "вечер",
+        "german": "Abend",
+        "spanish": "noche"
+      }
+    },
+    {
+      "french": "la nuit",
+      "type": "noun",
+      "article": "la",
+      "gender": "feminine",
+      "translations": {
+        "english": "night",
+        "russian": "ночь",
+        "german": "Nacht",
+        "spanish": "noche"
+      }
+    },
+    {
+      "french": "une heure",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "hour",
+        "russian": "час",
+        "german": "Stunde",
+        "spanish": "hora"
+      }
+    },
+    {
+      "french": "une minute",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "minute",
+        "russian": "минута",
+        "german": "Minute",
+        "spanish": "minuto"
+      }
+    },
+    {
+      "french": "une seconde",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "second",
+        "russian": "секунда",
+        "german": "Sekunde",
+        "spanish": "segundo"
+      }
+    },
+    {
+      "french": "un début",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "beginning",
+        "russian": "начало",
+        "german": "Anfang",
+        "spanish": "comienzo"
+      }
+    },
+    {
+      "french": "une fin",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "end",
+        "russian": "конец",
+        "german": "Ende",
+        "spanish": "fin"
+      }
+    },
+    {
+      "french": "une saison",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "season",
+        "russian": "сезон",
+        "german": "Jahreszeit",
+        "spanish": "estación"
+      }
+    },
+    {
+      "french": "un été",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "summer",
+        "russian": "лето",
+        "german": "Sommer",
+        "spanish": "verano"
+      }
+    },
+    {
+      "french": "un automne",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "autumn",
+        "russian": "осень",
+        "german": "Herbst",
+        "spanish": "otoño"
+      }
+    },
+    {
+      "french": "un hiver",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "winter",
+        "russian": "зима",
+        "german": "Winter",
+        "spanish": "invierno"
+      }
+    },
+    {
+      "french": "un printemps",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "spring",
+        "russian": "весна",
+        "german": "Frühling",
+        "spanish": "primavera"
+      }
+    },
+    {
+      "french": "le passé",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "past",
+        "russian": "прошлое",
+        "german": "Vergangenheit",
+        "spanish": "pasado"
+      }
+    },
+    {
+      "french": "le présent",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "present",
+        "russian": "настоящее",
+        "german": "Gegenwart",
+        "spanish": "presente"
+      }
+    },
+    {
+      "french": "le futur",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "future",
+        "russian": "будущее",
+        "german": "Zukunft",
+        "spanish": "futuro"
+      }
+    },
+    {
+      "french": "un siècle",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "century",
+        "russian": "век",
+        "german": "Jahrhundert",
+        "spanish": "siglo"
+      }
+    },
+    {
+      "french": "une fois",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "time (instance)",
+        "russian": "раз",
+        "german": "Mal",
+        "spanish": "vez"
+      }
+    },
+    {
+      "french": "une décennie",
+      "type": "noun",
+      "article": "une",
+      "gender": "feminine",
+      "translations": {
+        "english": "decade",
+        "russian": "десятилетие",
+        "german": "Dekade",
+        "spanish": "década"
+      }
+    },
+    {
+      "french": "la température",
+      "type": "noun",
+      "article": "la",
+      "gender": "feminine",
+      "translations": {
+        "english": "temperature",
+        "russian": "температура",
+        "german": "Temperatur",
+        "spanish": "temperatura"
+      }
+    },
+    {
+      "french": "le météo",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "weather",
+        "russian": "погода",
+        "german": "Wetter",
+        "spanish": "clima"
+      }
+    },
+    {
+      "french": "le temps",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "weather/time",
+        "russian": "погода/время",
+        "german": "Wetter/Zeit",
+        "spanish": "clima/tiempo"
+      }
+    },
+    {
+      "french": "le ciel",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "sky",
+        "russian": "небо",
+        "german": "Himmel",
+        "spanish": "cielo"
+      }
+    },
+    {
+      "french": "le soleil",
+      "type": "noun",
+      "article": "le",
+      "gender": "masculine",
+      "translations": {
+        "english": "sun",
+        "russian": "солнце",
+        "german": "Sonne",
+        "spanish": "sol"
+      }
+    },
+    {
+      "french": "un nuage",
+      "type": "noun",
+      "article": "un",
+      "gender": "masculine",
+      "translations": {
+        "english": "cloud",
+        "russian": "облако",
+        "german": "Wolke"
+      }
+    }
+  ]
+}
