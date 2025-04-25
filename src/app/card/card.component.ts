@@ -9,5 +9,5 @@ import { Component, Input } from '@angular/core';
 export class CardComponent {
   @Input() title: string = '';
   @Input() description: string | undefined = '';
-  @Input() link = '#';
+  @Input() id = '';
 }

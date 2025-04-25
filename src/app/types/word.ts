@@ -11,6 +11,7 @@ export interface Word {
 }
 
 export interface Verb {
+  id: string;
   french_infinitive: string;
   conjugations: {
     je: string;

@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { DictionaryService } from './dictionary.service';
-import { TranslationLanguage, Verb } from './types/word';
+import { TranslationLanguage } from './types/word';
+import { TranslationService } from './translation.service';
 
 @Component({
   selector: 'app-root',
@@ -10,35 +11,26 @@ import { TranslationLanguage, Verb } from './types/word';
 })
 export class AppComponent implements OnInit {
   appName = 'French';
-  filteredVerbs: Verb[] = [];
   search = '';
-  tanslationLanguage: TranslationLanguage = 'english';
+  translationLanguage: TranslationLanguage = 'english';
 
-  constructor(public dictionaryService: DictionaryService) {
-    this.filteredVerbs = dictionaryService.verbs;
-  }
+  constructor(
+    private dictionaryService: DictionaryService,
+    private translationService: TranslationService
+  ) {}
 
   ngOnInit(): void {
-    this.tanslationLanguage =
-      (localStorage.getItem('translation_language') as TranslationLanguage) ??
-      'english';
-
+    this.translationService.tanslationLanguage$.subscribe((language) => {
+      this.translationLanguage = language;
+    });
     console.log(localStorage.getItem('translation_language'));
   }
 
   searchChange() {
-    this.filteredVerbs = this.dictionaryService.verbs.filter(
-      (verb) =>
-        verb.french_infinitive
-          .toLocaleLowerCase()
-          .includes(this.search.toLocaleLowerCase()) ||
-        verb.translations.english
-          .toLocaleLowerCase()
-          .includes(this.search.toLocaleLowerCase())
-    );
+    this.dictionaryService.searchWord(this.search, this.translationLanguage);
   }
 
   setTranslationLanguage() {
-    localStorage.setItem('translation_language', this.tanslationLanguage);
+    this.translationService.setTranslationLanguage(this.translationLanguage);
   }
 }

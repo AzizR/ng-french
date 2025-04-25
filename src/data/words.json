@@ -1,6 +1,7 @@
 {
   "verbs": [
     {
+      "id": "d17fffe7-cc2b-4715-8f36-586cbc1dc54d",
       "french_infinitive": "aimer",
       "conjugations": {
         "je": "aime",
@@ -18,6 +19,7 @@
       }
     },
     {
+      "id": "917192de-2440-4988-aa33-41c320a14cbb",
       "french_infinitive": "aller",
       "conjugations": {
         "je": "vais",
@@ -35,6 +37,7 @@
       }
     },
     {
+      "id": "f842e516-5ed7-400f-80e2-f0128bc1d032",
       "french_infinitive": "appeler",
       "conjugations": {
         "je": "appelle",
@@ -52,6 +55,7 @@
       }
     },
     {
+      "id": "412be845-d43c-451e-94d5-a79ceb92968f",
       "french_infinitive": "apprendre",
       "conjugations": {
         "je": "apprends",
@@ -69,6 +73,7 @@
       }
     },
     {
+      "id": "73cd0feb-ff2e-4eed-ba7d-24b2eb480be9",
       "french_infinitive": "attendre",
       "conjugations": {
         "je": "attends",
@@ -86,6 +91,7 @@
       }
     },
     {
+      "id": "8f9f5676-0e87-4d08-9d5f-a307e1dad35e",
       "french_infinitive": "avoir",
       "conjugations": {
         "je": "ai",
@@ -103,6 +109,7 @@
       }
     },
     {
+      "id": "413dfbee-b958-4e50-bed4-be511bf522d9",
       "french_infinitive": "boire",
       "conjugations": {
         "je": "bois",
@@ -120,6 +127,7 @@
       }
     },
     {
+      "id": "27ad2b56-145f-4e72-b7f2-12ab1aba1a11",
       "french_infinitive": "choisir",
       "conjugations": {
         "je": "choisis",
@@ -137,6 +145,7 @@
       }
     },
     {
+      "id": "0297a52e-0639-4c2e-ad8e-5b40e79e3b7d",
       "french_infinitive": "commencer",
       "conjugations": {
         "je": "commence",
@@ -154,6 +163,7 @@
       }
     },
     {
+      "id": "cb047e44-9459-4cac-b768-a69e66db7b45",
       "french_infinitive": "comprendre",
       "conjugations": {
         "je": "comprends",
@@ -171,6 +181,7 @@
       }
     },
     {
+      "id": "e6cb3f6a-d28c-443b-b9ca-efa0a7bb6741",
       "french_infinitive": "conduire",
       "conjugations": {
         "je": "conduis",
@@ -188,6 +199,7 @@
       }
     },
     {
+      "id": "fad669e9-3c9d-4ff7-b961-07775674a884",
       "french_infinitive": "connaître",
       "conjugations": {
         "je": "connais",
@@ -205,6 +217,7 @@
       }
     },
     {
+      "id": "52e9e1f3-de6b-4e50-9be0-eb4b6ed2b8c8",
       "french_infinitive": "courir",
       "conjugations": {
         "je": "cours",
@@ -222,6 +235,7 @@
       }
     },
     {
+      "id": "df712b80-d4f8-42a5-aa82-9a3408cacdd4",
       "french_infinitive": "croire",
       "conjugations": {
         "je": "crois",
@@ -239,6 +253,7 @@
       }
     },
     {
+      "id": "13bf5996-b2cc-41e7-b338-478a96a7a462",
       "french_infinitive": "décrire",
       "conjugations": {
         "je": "décris",
@@ -256,6 +271,7 @@
       }
     },
     {
+      "id": "a5b69aec-3617-4b19-b0f3-4eff722acb6c",
       "french_infinitive": "défendre",
       "conjugations": {
         "je": "défends",
@@ -273,6 +289,7 @@
       }
     },
     {
+      "id": "0226ffe9-cf4e-4178-9ad7-100fea7d98f2",
       "french_infinitive": "descendre",
       "conjugations": {
         "je": "descends",
@@ -290,6 +307,7 @@
       }
     },
     {
+      "id": "48a4a28e-fd05-449a-bade-84aa6d8e4af9",
       "french_infinitive": "devoir",
       "conjugations": {
         "je": "dois",
@@ -307,6 +325,7 @@
       }
     },
     {
+      "id": "f396e32c-1849-4026-beb9-ac988921e607",
       "french_infinitive": "dire",
       "conjugations": {
         "je": "dis",
@@ -324,6 +343,7 @@
       }
     },
     {
+      "id": "b427e68c-0827-4219-8c66-f64043567ae6",
       "french_infinitive": "dormir",
       "conjugations": {
         "je": "dors",
@@ -341,6 +361,7 @@
       }
     },
     {
+      "id": "8d621d00-45d7-4351-be5c-86a8b4bdf0e8",
       "french_infinitive": "écrire",
       "conjugations": {
         "je": "écris",
@@ -358,6 +379,7 @@
       }
     },
     {
+      "id": "6d3aaa37-39fb-4b29-a9d5-8d95e13c470e",
       "french_infinitive": "entendre",
       "conjugations": {
         "je": "entends",
@@ -375,6 +397,7 @@
       }
     },
     {
+      "id": "ea8535ba-cb30-4714-8fce-17cf89242606",
       "french_infinitive": "envoyer",
       "conjugations": {
         "je": "envoie",
@@ -392,6 +415,7 @@
       }
     },
     {
+      "id": "d8f70f85-c67e-45c2-afd7-c7a5bb93f051",
       "french_infinitive": "être",
       "conjugations": {
         "je": "suis",
@@ -409,6 +433,7 @@
       }
     },
     {
+      "id": "7b832f84-edd6-43ea-8a51-37316b2aaf9b",
       "french_infinitive": "faire",
       "conjugations": {
         "je": "fais",
@@ -426,6 +451,7 @@
       }
     },
     {
+      "id": "db3a33aa-f1b1-42ac-ae3b-3d48e2262a17",
       "french_infinitive": "finir",
       "conjugations": {
         "je": "finis",
@@ -443,6 +469,7 @@
       }
     },
     {
+      "id": "8b39e23d-4fd4-4d84-a2f2-a048c33fc1b4",
       "french_infinitive": "lire",
       "conjugations": {
         "je": "lis",
@@ -460,6 +487,7 @@
       }
     },
     {
+      "id": "1b3627db-050b-4e8e-9b0c-20dbb2395a0f",
       "french_infinitive": "manger",
       "conjugations": {
         "je": "mange",
@@ -477,6 +505,7 @@
       }
     },
     {
+      "id": "f88d8b7f-cb30-4dd5-9c54-0052a162dfc5",
       "french_infinitive": "mettre",
       "conjugations": {
         "je": "mets",
@@ -494,6 +523,7 @@
       }
     },
     {
+      "id": "e3788a02-8962-49db-8551-f9eff563f8ed",
       "french_infinitive": "mourir",
       "conjugations": {
         "je": "meurs",
@@ -511,6 +541,7 @@
       }
     },
     {
+      "id": "ff1cc22f-a6b3-4c46-8ff9-03e522096c37",
       "french_infinitive": "nettoyer",
       "conjugations": {
         "je": "nettoie",
@@ -528,6 +559,7 @@
       }
     },
     {
+      "id": "de4ac0d6-17b3-40ae-adc7-e84be9339993",
       "french_infinitive": "ouvrir",
       "conjugations": {
         "je": "ouvre",
@@ -545,6 +577,7 @@
       }
     },
     {
+      "id": "470451d2-e4f5-4ee9-a9ac-ccbc8b036547",
       "french_infinitive": "partir",
       "conjugations": {
         "je": "pars",
@@ -562,6 +595,7 @@
       }
     },
     {
+      "id": "e106dcf4-c9db-4a86-86c0-84d43ae26d1f",
       "french_infinitive": "penser",
       "conjugations": {
         "je": "pense",
@@ -579,6 +613,7 @@
       }
     },
     {
+      "id": "c2e8b622-386e-4fc1-a5a3-82b151ea756f",
       "french_infinitive": "pleuvoir",
       "conjugations": {
         "je": "-",
@@ -596,6 +631,7 @@
       }
     },
     {
+      "id": "815152c5-d998-44e6-b7c2-4b41baa49dc0",
       "french_infinitive": "pouvoir",
       "conjugations": {
         "je": "peux",
@@ -613,6 +649,7 @@
       }
     },
     {
+      "id": "f36d4aed-a3bc-48f4-99f6-8b1c9f7f36a9",
       "french_infinitive": "prendre",
       "conjugations": {
         "je": "prends",
@@ -630,6 +667,7 @@
       }
     },
     {
+      "id": "3066e974-dd21-456b-b605-477ae189ff71",
       "french_infinitive": "promettre",
       "conjugations": {
         "je": "promets",
@@ -647,6 +685,7 @@
       }
     },
     {
+      "id": "a854c0f1-709e-44d4-aae0-5bbb45fea335",
       "french_infinitive": "recevoir",
       "conjugations": {
         "je": "reçois",
@@ -664,6 +703,7 @@
       }
     },
     {
+      "id": "6c60b4d7-bbfe-4042-bd17-5e899292828d",
       "french_infinitive": "réussir",
       "conjugations": {
         "je": "réussis",
@@ -681,6 +721,7 @@
       }
     },
     {
+      "id": "3d8b6e03-c2c9-48c4-9d48-4fef7fa235cf",
       "french_infinitive": "réfléchir",
       "conjugations": {
         "je": "réfléchis",
@@ -698,6 +739,7 @@
       }
     },
     {
+      "id": "e8ae1936-0e83-4e59-8aea-a2793f6d9f2e",
       "french_infinitive": "regarder",
       "conjugations": {
         "je": "regarde",
@@ -715,6 +757,7 @@
       }
     },
     {
+      "id": "db4c5e3b-4554-474d-8bce-97d29640b43c",
       "french_infinitive": "remplir",
       "conjugations": {
         "je": "remplis",
@@ -732,6 +775,7 @@
       }
     },
     {
+      "id": "33870290-ec7a-47b9-9805-5635a62d5e9a",
       "french_infinitive": "rendre",
       "conjugations": {
         "je": "rends",
@@ -749,6 +793,7 @@
       }
     },
     {
+      "id": "b654cd3b-e78d-4911-abff-39b12a061ead",
       "french_infinitive": "repondre",
       "conjugations": {
         "je": "réponds",
@@ -766,6 +811,7 @@
       }
     },
     {
+      "id": "204debdb-068c-431c-b416-1b0eb27496a2",
       "french_infinitive": "ressentir",
       "conjugations": {
         "je": "ressens",
@@ -783,6 +829,7 @@
       }
     },
     {
+      "id": "c2c1474f-3c5c-4e59-bc23-ab7b2b898b55",
       "french_infinitive": "savoir",
       "conjugations": {
         "je": "sais",
@@ -800,6 +847,7 @@
       }
     },
     {
+      "id": "0b4e2c76-9f14-4d3c-8ada-9b6858db1804",
       "french_infinitive": "sortir",
       "conjugations": {
         "je": "sors",
@@ -817,6 +865,7 @@
       }
     },
     {
+      "id": "a5d76341-c970-4d12-83a2-044d3c761d66",
       "french_infinitive": "tenir",
       "conjugations": {
         "je": "tiens",
@@ -834,6 +883,7 @@
       }
     },
     {
+      "id": "6ca7e9ec-be39-4f27-a00a-7402010674b9",
       "french_infinitive": "tousser",
       "conjugations": {
         "je": "tousse",
@@ -851,6 +901,7 @@
       }
     },
     {
+      "id": "ae97912b-2124-4cd3-80c9-e4061e282a94",
       "french_infinitive": "vendre",
       "conjugations": {
         "je": "vends",
@@ -868,6 +919,7 @@
       }
     },
     {
+      "id": "bc327bc9-54b7-45b3-b85e-f016e8f38f73",
       "french_infinitive": "venir",
       "conjugations": {
         "je": "viens",
@@ -885,6 +937,7 @@
       }
     },
     {
+      "id": "b3517c4d-8e6d-49e7-809d-059701154365",
       "french_infinitive": "vivre",
       "conjugations": {
         "je": "vis",
@@ -902,6 +955,7 @@
       }
     },
     {
+      "id": "288e9dd3-64de-4fd4-9803-3306228f05a7",
       "french_infinitive": "voir",
       "conjugations": {
         "je": "vois",
@@ -919,6 +973,7 @@
       }
     },
     {
+      "id": "ebebd5b6-e4df-4169-88f7-5d8ce058560f",
       "french_infinitive": "vouloir",
       "conjugations": {
         "je": "veux",
