@@ -7,9 +7,10 @@ import { AppComponent } from './app.component';
 import { CardComponent } from './card/card.component';
 import { MainComponent } from './pages/main/main.component';
 import { WordDetailComponent } from './pages/word-detail/word-detail.component';
+import { TableComponent } from './table/table.component';
 
 @NgModule({
-  declarations: [AppComponent, CardComponent, MainComponent, WordDetailComponent],
+  declarations: [AppComponent, CardComponent, MainComponent, WordDetailComponent, TableComponent],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [],
   bootstrap: [AppComponent],

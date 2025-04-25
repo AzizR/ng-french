@@ -1,7 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnDestroy, OnInit } from '@angular/core';
 import { DictionaryService } from './dictionary.service';
 import { TranslationLanguage } from './types/word';
 import { TranslationService } from './translation.service';
+import { filter, Subscription } from 'rxjs';
+import { ActivatedRoute, NavigationEnd, Router } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -9,21 +11,41 @@ import { TranslationService } from './translation.service';
   standalone: false,
   styleUrl: './app.component.scss',
 })
-export class AppComponent implements OnInit {
+export class AppComponent implements OnInit, OnDestroy {
   appName = 'French';
   search = '';
   translationLanguage: TranslationLanguage = 'english';
+  subscription = new Subscription();
+  url = '';
 
   constructor(
     private dictionaryService: DictionaryService,
-    private translationService: TranslationService
+    private translationService: TranslationService,
+    private router: Router
   ) {}
 
   ngOnInit(): void {
-    this.translationService.tanslationLanguage$.subscribe((language) => {
-      this.translationLanguage = language;
-    });
-    console.log(localStorage.getItem('translation_language'));
+    this.subscription.add(
+      this.translationService.tanslationLanguage$.subscribe((language) => {
+        this.translationLanguage = language;
+      })
+    );
+
+    this.url = this.router.url;
+    this.updateCurrentUrlOnRedirect();
+  }
+
+  ngOnDestroy(): void {
+    this.subscription.unsubscribe();
+  }
+
+  updateCurrentUrlOnRedirect() {
+    this.router.events
+      .pipe(filter((event) => event instanceof NavigationEnd))
+      .subscribe((event: NavigationEnd) => {
+        this.url = event.urlAfterRedirects;
+        console.log(this.url);
+      });
   }
 
   searchChange() {

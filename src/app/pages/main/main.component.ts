@@ -38,4 +38,8 @@ export class MainComponent implements OnInit, OnDestroy {
   ngOnDestroy(): void {
     this.subcriptions.unsubscribe();
   }
+
+  trackVerbId(index: number, verb: Verb) {
+    return verb.id;
+  }
 }

@@ -6,18 +6,20 @@ import { TranslationLanguage } from './types/word';
   providedIn: 'root',
 })
 export class TranslationService {
-  tanslationLanguage = new BehaviorSubject<TranslationLanguage>('english');
-  tanslationLanguage$ = this.tanslationLanguage.asObservable();
+  tanslationLanguageSubject = new BehaviorSubject<TranslationLanguage>(
+    'english'
+  );
+  tanslationLanguage$ = this.tanslationLanguageSubject.asObservable();
 
   constructor() {
-    this.tanslationLanguage.next(
+    this.tanslationLanguageSubject.next(
       (localStorage.getItem('translation_language') as TranslationLanguage) ??
         'english'
     );
   }
 
   setTranslationLanguage(tanslationLanguage: TranslationLanguage) {
-    this.tanslationLanguage.next(tanslationLanguage);
+    this.tanslationLanguageSubject.next(tanslationLanguage);
     localStorage.setItem('translation_language', tanslationLanguage);
   }
 }

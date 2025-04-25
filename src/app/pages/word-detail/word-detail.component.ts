@@ -12,6 +12,7 @@ import { Verb } from '../../types/word';
 export class WordDetailComponent implements OnInit {
   id: string = '';
   word: Verb | null = null;
+  vowels = ['a', 'e', 'i', 'o', 'u', 'y', 'h'];
 
   constructor(
     private activatedRoute: ActivatedRoute,

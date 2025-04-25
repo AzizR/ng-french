@@ -9,7 +9,7 @@
       [title]="verb.french_infinitive"
       [description]="verb.translations[tanslationLanguage]"
       [id]="verb.id"
-      *ngFor="let verb of filteredVerbs"
+      *ngFor="let verb of filteredVerbs; trackVerbId"
     />
   </div>
 </section>

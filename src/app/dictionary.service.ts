@@ -9,15 +9,15 @@ import { BehaviorSubject } from 'rxjs';
 })
 export class DictionaryService {
   verbs: Verb[] = [];
-  filteredVerbs = new BehaviorSubject<Verb[]>([]);
-  filteredVerbs$ = this.filteredVerbs.asObservable();
+  filteredVerbsSubject = new BehaviorSubject<Verb[]>([]);
+  filteredVerbs$ = this.filteredVerbsSubject.asObservable();
 
   selectedWord = new BehaviorSubject<Verb | null>(null);
   selectedWord$ = this.selectedWord.asObservable();
 
   constructor() {
     this.verbs = data.verbs;
-    this.filteredVerbs.next(this.verbs);
+    this.filteredVerbsSubject.next(this.verbs);
   }
 
   selectWord(id: string) {
@@ -30,7 +30,7 @@ export class DictionaryService {
   }
 
   searchWord(search: string, translation: TranslationLanguage) {
-    this.filteredVerbs.next(
+    this.filteredVerbsSubject.next(
       this.verbs.filter(
         (verb) =>
           verb.french_infinitive
