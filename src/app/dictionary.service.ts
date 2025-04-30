@@ -1,5 +1,10 @@
 import { Injectable } from '@angular/core';
-import { Word, Verb, TranslationLanguage } from './types/word';
+import {
+  Word,
+  Verb,
+  TranslationLanguage,
+  PrepositionOfPlace,
+} from './types/word';
 
 import data from '../data/words.json';
 import { BehaviorSubject } from 'rxjs';
@@ -8,16 +13,23 @@ import { BehaviorSubject } from 'rxjs';
   providedIn: 'root',
 })
 export class DictionaryService {
-  verbs: Verb[] = [];
-  filteredVerbsSubject = new BehaviorSubject<Verb[]>([]);
-  filteredVerbs$ = this.filteredVerbsSubject.asObservable();
+  #verbs: Verb[] = [];
+  #filteredVerbsSubject = new BehaviorSubject<Verb[]>([]);
+  filteredVerbs$ = this.#filteredVerbsSubject.asObservable();
+
+  prepositions: PrepositionOfPlace[] = [];
+  #filteredPrepositionsSubject = new BehaviorSubject<PrepositionOfPlace[]>([]);
+  filteredPrepositions$ = this.#filteredPrepositionsSubject.asObservable();
 
   selectedWord = new BehaviorSubject<Verb | null>(null);
   selectedWord$ = this.selectedWord.asObservable();
 
   constructor() {
-    this.verbs = data.verbs;
-    this.filteredVerbsSubject.next(this.verbs);
+    this.#verbs = data.verbs;
+    this.#filteredVerbsSubject.next(this.#verbs);
+
+    this.prepositions = data.prepositions;
+    this.#filteredPrepositionsSubject.next(this.prepositions);
   }
 
   selectWord(id: string) {
@@ -26,12 +38,12 @@ export class DictionaryService {
       return;
     }
 
-    this.selectedWord.next(this.verbs.find((verb) => verb.id === id) ?? null);
+    this.selectedWord.next(this.#verbs.find((verb) => verb.id === id) ?? null);
   }
 
   searchWord(search: string, translation: TranslationLanguage) {
-    this.filteredVerbsSubject.next(
-      this.verbs.filter(
+    this.#filteredVerbsSubject.next(
+      this.#verbs.filter(
         (verb) =>
           verb.french_infinitive
             .toLocaleLowerCase()
@@ -39,6 +51,14 @@ export class DictionaryService {
           (verb.translations[translation] ?? verb.translations.english)
             .toLocaleLowerCase()
             .includes(search.toLocaleLowerCase())
+      )
+    );
+
+    this.#filteredPrepositionsSubject.next(
+      this.prepositions.filter((prep) =>
+        prep.preposition
+          .toLocaleLowerCase()
+          .includes(search.toLocaleLowerCase())
       )
     );
   }

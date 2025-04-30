@@ -13,3 +13,19 @@
     />
   </div>
 </section>
+
+<section class="mt-4">
+  <h2 class="text-lg dark:text-gray-300 mb-2">
+    Prepositions ({{ filteredPrepositions.length }})
+  </h2>
+  <div
+    class="flex flex-col gap-4 md:grid md:grid-cols-2 lg:grid-cols-3 justify-center"
+  >
+    <app-card
+      [title]="prep.preposition"
+      [description]=""
+      [id]="'123'"
+      *ngFor="let prep of filteredPrepositions; trackVerbId"
+    />
+  </div>
+</section>

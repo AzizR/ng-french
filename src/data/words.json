@@ -16,7 +16,30 @@
         "russian": "любить",
         "german": "lieben",
         "spanish": "amar"
-      }
+      },
+      "examples": [
+        {
+          "example": "J'aime les animaux.",
+          "english": "I love animals.",
+          "russian": "Я люблю животных.",
+          "german": "Ich liebe Tiere.",
+          "spanish": "Me encantan los animales."
+        },
+        {
+          "example": "Elle aime la musique.",
+          "english": "She loves music.",
+          "russian": "Она любит музыку.",
+          "german": "Sie liebt Musik.",
+          "spanish": "Le encanta la música."
+        },
+        {
+          "example": "Nous aimons le sport.",
+          "english": "We love sports.",
+          "russian": "Мы любим спорт.",
+          "german": "Wir lieben Sport.",
+          "spanish": "Nos encanta el deporte."
+        }
+      ]
     },
     {
       "id": "917192de-2440-4988-aa33-41c320a14cbb",
@@ -34,7 +57,30 @@
         "russian": "идти",
         "german": "gehen",
         "spanish": "ir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je vais à l'école.",
+          "english": "I go to school.",
+          "russian": "Я иду в школу.",
+          "german": "Ich gehe zur Schule.",
+          "spanish": "Voy a la escuela."
+        },
+        {
+          "example": "Nous allons au marché.",
+          "english": "We are going to the market.",
+          "russian": "Мы идем на рынок.",
+          "german": "Wir gehen zum Markt.",
+          "spanish": "Vamos al mercado."
+        },
+        {
+          "example": "Ils vont au cinéma.",
+          "english": "They go to the cinema.",
+          "russian": "Они идут в кино.",
+          "german": "Sie gehen ins Kino.",
+          "spanish": "Van al cine."
+        }
+      ]
     },
     {
       "id": "f842e516-5ed7-400f-80e2-f0128bc1d032",
@@ -52,7 +98,30 @@
         "russian": "звонить",
         "german": "anrufen",
         "spanish": "llamar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je m'appelle Pierre.",
+          "english": "My name is Pierre.",
+          "russian": "Меня зовут Пьер.",
+          "german": "Ich heiße Pierre.",
+          "spanish": "Me llamo Pierre."
+        },
+        {
+          "example": "Elle appelle son ami.",
+          "english": "She calls her friend.",
+          "russian": "Она звонит своему другу.",
+          "german": "Sie ruft ihren Freund an.",
+          "spanish": "Ella llama a su amigo."
+        },
+        {
+          "example": "Nous appelons un taxi.",
+          "english": "We are calling a taxi.",
+          "russian": "Мы вызываем такси.",
+          "german": "Wir rufen ein Taxi.",
+          "spanish": "Llamamos a un taxi."
+        }
+      ]
     },
     {
       "id": "412be845-d43c-451e-94d5-a79ceb92968f",
@@ -70,7 +139,30 @@
         "russian": "учиться",
         "german": "lernen",
         "spanish": "aprender"
-      }
+      },
+      "examples": [
+        {
+          "example": "J'apprends le français.",
+          "english": "I am learning French.",
+          "russian": "Я учу французский язык.",
+          "german": "Ich lerne Französisch.",
+          "spanish": "Estoy aprendiendo francés."
+        },
+        {
+          "example": "Nous apprenons à nager.",
+          "english": "We are learning to swim.",
+          "russian": "Мы учимся плавать.",
+          "german": "Wir lernen schwimmen.",
+          "spanish": "Estamos aprendiendo a nadar."
+        },
+        {
+          "example": "Ils apprennent vite.",
+          "english": "They learn fast.",
+          "russian": "Они быстро учатся.",
+          "german": "Sie lernen schnell.",
+          "spanish": "Aprenden rápido."
+        }
+      ]
     },
     {
       "id": "73cd0feb-ff2e-4eed-ba7d-24b2eb480be9",
@@ -88,7 +180,30 @@
         "russian": "ждать",
         "german": "warten",
         "spanish": "esperar"
-      }
+      },
+      "examples": [
+        {
+          "example": "J'attends mon ami.",
+          "english": "I am waiting for my friend.",
+          "russian": "Я жду моего друга.",
+          "german": "Ich warte auf meinen Freund.",
+          "spanish": "Estoy esperando a mi amigo."
+        },
+        {
+          "example": "Nous attendons le bus.",
+          "english": "We are waiting for the bus.",
+          "russian": "Мы ждем автобус.",
+          "german": "Wir warten auf den Bus.",
+          "spanish": "Estamos esperando el autobús."
+        },
+        {
+          "example": "Elle attend son frère.",
+          "english": "She is waiting for her brother.",
+          "russian": "Она ждет своего брата.",
+          "german": "Sie wartet auf ihren Bruder.",
+          "spanish": "Ella espera a su hermano."
+        }
+      ]
     },
     {
       "id": "8f9f5676-0e87-4d08-9d5f-a307e1dad35e",
@@ -106,7 +221,30 @@
         "russian": "иметь",
         "german": "haben",
         "spanish": "tener"
-      }
+      },
+      "examples": [
+        {
+          "example": "J'ai un chien.",
+          "english": "I have a dog.",
+          "russian": "У меня есть собака.",
+          "german": "Ich habe einen Hund.",
+          "spanish": "Tengo un perro."
+        },
+        {
+          "example": "Elle a trois frères.",
+          "english": "She has three brothers.",
+          "russian": "У неё три брата.",
+          "german": "Sie hat drei Brüder.",
+          "spanish": "Ella tiene tres hermanos."
+        },
+        {
+          "example": "Nous avons une voiture.",
+          "english": "We have a car.",
+          "russian": "У нас есть машина.",
+          "german": "Wir haben ein Auto.",
+          "spanish": "Tenemos un coche."
+        }
+      ]
     },
     {
       "id": "413dfbee-b958-4e50-bed4-be511bf522d9",
@@ -124,7 +262,30 @@
         "russian": "пить",
         "german": "trinken",
         "spanish": "beber"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je bois de l'eau.",
+          "english": "I drink water.",
+          "russian": "Я пью воду.",
+          "german": "Ich trinke Wasser.",
+          "spanish": "Bebo agua."
+        },
+        {
+          "example": "Il boit du café.",
+          "english": "He drinks coffee.",
+          "russian": "Он пьет кофе.",
+          "german": "Er trinkt Kaffee.",
+          "spanish": "Él bebe café."
+        },
+        {
+          "example": "Nous buvons du thé.",
+          "english": "We are drinking tea.",
+          "russian": "Мы пьем чай.",
+          "german": "Wir trinken Tee.",
+          "spanish": "Estamos bebiendo té."
+        }
+      ]
     },
     {
       "id": "27ad2b56-145f-4e72-b7f2-12ab1aba1a11",
@@ -142,7 +303,30 @@
         "russian": "выбирать",
         "german": "wählen",
         "spanish": "escoger"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je choisis un livre.",
+          "english": "I am choosing a book.",
+          "russian": "Я выбираю книгу.",
+          "german": "Ich wähle ein Buch.",
+          "spanish": "Estoy eligiendo un libro."
+        },
+        {
+          "example": "Nous choisissons un film.",
+          "english": "We are choosing a movie.",
+          "russian": "Мы выбираем фильм.",
+          "german": "Wir wählen einen Film.",
+          "spanish": "Estamos eligiendo una película."
+        },
+        {
+          "example": "Elle choisit une robe.",
+          "english": "She is choosing a dress.",
+          "russian": "Она выбирает платье.",
+          "german": "Sie wählt ein Kleid.",
+          "spanish": "Ella está eligiendo un vestido."
+        }
+      ]
     },
     {
       "id": "0297a52e-0639-4c2e-ad8e-5b40e79e3b7d",
@@ -160,7 +344,30 @@
         "russian": "начинать",
         "german": "beginnen",
         "spanish": "comenzar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je commence à lire.",
+          "english": "I am starting to read.",
+          "russian": "Я начинаю читать.",
+          "german": "Ich fange an zu lesen.",
+          "spanish": "Estoy empezando a leer."
+        },
+        {
+          "example": "Le cours commence à huit heures.",
+          "english": "The class starts at eight o'clock.",
+          "russian": "Урок начинается в восемь часов.",
+          "german": "Der Unterricht beginnt um acht Uhr.",
+          "spanish": "La clase empieza a las ocho."
+        },
+        {
+          "example": "Ils commencent à travailler.",
+          "english": "They are starting to work.",
+          "russian": "Они начинают работать.",
+          "german": "Sie beginnen zu arbeiten.",
+          "spanish": "Están empezando a trabajar."
+        }
+      ]
     },
     {
       "id": "cb047e44-9459-4cac-b768-a69e66db7b45",
@@ -178,7 +385,30 @@
         "russian": "понимать",
         "german": "verstehen",
         "spanish": "comprender"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je comprends le professeur.",
+          "english": "I understand the teacher.",
+          "russian": "Я понимаю учителя.",
+          "german": "Ich verstehe den Lehrer.",
+          "spanish": "Entiendo al profesor."
+        },
+        {
+          "example": "Elle comprend la question.",
+          "english": "She understands the question.",
+          "russian": "Она понимает вопрос.",
+          "german": "Sie versteht die Frage.",
+          "spanish": "Ella entiende la pregunta."
+        },
+        {
+          "example": "Nous comprenons bien.",
+          "english": "We understand well.",
+          "russian": "Мы хорошо понимаем.",
+          "german": "Wir verstehen gut.",
+          "spanish": "Entendemos bien."
+        }
+      ]
     },
     {
       "id": "e6cb3f6a-d28c-443b-b9ca-efa0a7bb6741",
@@ -196,7 +426,30 @@
         "russian": "водить",
         "german": "fahren",
         "spanish": "conducir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je conduis une voiture.",
+          "english": "I am driving a car.",
+          "russian": "Я вожу машину.",
+          "german": "Ich fahre ein Auto.",
+          "spanish": "Estoy conduciendo un coche."
+        },
+        {
+          "example": "Il conduit prudemment.",
+          "english": "He drives carefully.",
+          "russian": "Он водит осторожно.",
+          "german": "Er fährt vorsichtig.",
+          "spanish": "Él conduce con cuidado."
+        },
+        {
+          "example": "Nous conduisons au travail.",
+          "english": "We drive to work.",
+          "russian": "Мы едем на работу на машине.",
+          "german": "Wir fahren zur Arbeit.",
+          "spanish": "Conducimos al trabajo."
+        }
+      ]
     },
     {
       "id": "fad669e9-3c9d-4ff7-b961-07775674a884",
@@ -214,7 +467,30 @@
         "russian": "знать",
         "german": "kennen",
         "spanish": "conocer"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je connais cette ville.",
+          "english": "I know this city.",
+          "russian": "Я знаю этот город.",
+          "german": "Ich kenne diese Stadt.",
+          "spanish": "Conozco esta ciudad."
+        },
+        {
+          "example": "Elle connaît mon frère.",
+          "english": "She knows my brother.",
+          "russian": "Она знает моего брата.",
+          "german": "Sie kennt meinen Bruder.",
+          "spanish": "Ella conoce a mi hermano."
+        },
+        {
+          "example": "Nous connaissons la réponse.",
+          "english": "We know the answer.",
+          "russian": "Мы знаем ответ.",
+          "german": "Wir kennen die Antwort.",
+          "spanish": "Conocemos la respuesta."
+        }
+      ]
     },
     {
       "id": "52e9e1f3-de6b-4e50-9be0-eb4b6ed2b8c8",
@@ -232,7 +508,30 @@
         "russian": "бегать",
         "german": "laufen",
         "spanish": "correr"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je cours dans le parc.",
+          "english": "I run in the park.",
+          "russian": "Я бегаю в парке.",
+          "german": "Ich laufe im Park.",
+          "spanish": "Corro en el parque."
+        },
+        {
+          "example": "Ils courent très vite.",
+          "english": "They run very fast.",
+          "russian": "Они бегают очень быстро.",
+          "german": "Sie laufen sehr schnell.",
+          "spanish": "Corren muy rápido."
+        },
+        {
+          "example": "Nous courons chaque matin.",
+          "english": "We run every morning.",
+          "russian": "Мы бегаем каждое утро.",
+          "german": "Wir laufen jeden Morgen.",
+          "spanish": "Corremos cada mañana."
+        }
+      ]
     },
     {
       "id": "df712b80-d4f8-42a5-aa82-9a3408cacdd4",
@@ -250,7 +549,30 @@
         "russian": "верить",
         "german": "glauben",
         "spanish": "creer"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je crois en toi.",
+          "english": "I believe in you.",
+          "russian": "Я верю в тебя.",
+          "german": "Ich glaube an dich.",
+          "spanish": "Creo en ti."
+        },
+        {
+          "example": "Elle croit cette histoire.",
+          "english": "She believes this story.",
+          "russian": "Она верит этой истории.",
+          "german": "Sie glaubt diese Geschichte.",
+          "spanish": "Ella cree esta historia."
+        },
+        {
+          "example": "Nous croyons au succès.",
+          "english": "We believe in success.",
+          "russian": "Мы верим в успех.",
+          "german": "Wir glauben an den Erfolg.",
+          "spanish": "Creemos en el éxito."
+        }
+      ]
     },
     {
       "id": "13bf5996-b2cc-41e7-b338-478a96a7a462",
@@ -268,7 +590,30 @@
         "russian": "описывать",
         "german": "beschreiben",
         "spanish": "describir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je décris la maison.",
+          "english": "I am describing the house.",
+          "russian": "Я описываю дом.",
+          "german": "Ich beschreibe das Haus.",
+          "spanish": "Estoy describiendo la casa."
+        },
+        {
+          "example": "Il décrit son voyage.",
+          "english": "He describes his trip.",
+          "russian": "Он описывает свою поездку.",
+          "german": "Er beschreibt seine Reise.",
+          "spanish": "Él describe su viaje."
+        },
+        {
+          "example": "Nous décrivons les photos.",
+          "english": "We describe the photos.",
+          "russian": "Мы описываем фотографии.",
+          "german": "Wir beschreiben die Fotos.",
+          "spanish": "Describimos las fotos."
+        }
+      ]
     },
     {
       "id": "a5b69aec-3617-4b19-b0f3-4eff722acb6c",
@@ -286,7 +631,30 @@
         "russian": "защищать",
         "german": "verteidigen",
         "spanish": "defender"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je défends mon opinion.",
+          "english": "I defend my opinion.",
+          "russian": "Я защищаю своё мнение.",
+          "german": "Ich verteidige meine Meinung.",
+          "spanish": "Defiendo mi opinión."
+        },
+        {
+          "example": "Il défend ses amis.",
+          "english": "He defends his friends.",
+          "russian": "Он защищает своих друзей.",
+          "german": "Er verteidigt seine Freunde.",
+          "spanish": "Él defiende a sus amigos."
+        },
+        {
+          "example": "Nous défendons nos droits.",
+          "english": "We defend our rights.",
+          "russian": "Мы защищаем наши права.",
+          "german": "Wir verteidigen unsere Rechte.",
+          "spanish": "Defendemos nuestros derechos."
+        }
+      ]
     },
     {
       "id": "0226ffe9-cf4e-4178-9ad7-100fea7d98f2",
@@ -304,7 +672,30 @@
         "russian": "спускаться",
         "german": "heruntergehen",
         "spanish": "descender"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je descends les escaliers.",
+          "english": "I go down the stairs.",
+          "russian": "Я спускаюсь по лестнице.",
+          "german": "Ich gehe die Treppe hinunter.",
+          "spanish": "Bajo las escaleras."
+        },
+        {
+          "example": "Il descend du train.",
+          "english": "He gets off the train.",
+          "russian": "Он выходит из поезда.",
+          "german": "Er steigt aus dem Zug.",
+          "spanish": "Él baja del tren."
+        },
+        {
+          "example": "Nous descendons rapidement.",
+          "english": "We go down quickly.",
+          "russian": "Мы быстро спускаемся.",
+          "german": "Wir gehen schnell hinunter.",
+          "spanish": "Bajamos rápidamente."
+        }
+      ]
     },
     {
       "id": "48a4a28e-fd05-449a-bade-84aa6d8e4af9",
@@ -322,7 +713,30 @@
         "russian": "должен",
         "german": "müssen",
         "spanish": "deber"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je dois finir mes devoirs.",
+          "english": "I have to finish my homework.",
+          "russian": "Я должен закончить домашнее задание.",
+          "german": "Ich muss meine Hausaufgaben beenden.",
+          "spanish": "Tengo que terminar mis deberes."
+        },
+        {
+          "example": "Elle doit partir tôt.",
+          "english": "She must leave early.",
+          "russian": "Она должна уйти рано.",
+          "german": "Sie muss früh gehen.",
+          "spanish": "Ella debe irse temprano."
+        },
+        {
+          "example": "Nous devons étudier.",
+          "english": "We must study.",
+          "russian": "Мы должны учиться.",
+          "german": "Wir müssen lernen.",
+          "spanish": "Debemos estudiar."
+        }
+      ]
     },
     {
       "id": "f396e32c-1849-4026-beb9-ac988921e607",
@@ -340,7 +754,30 @@
         "russian": "говорить",
         "german": "sagen",
         "spanish": "decir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je dis la vérité.",
+          "english": "I tell the truth.",
+          "russian": "Я говорю правду.",
+          "german": "Ich sage die Wahrheit.",
+          "spanish": "Digo la verdad."
+        },
+        {
+          "example": "Il dit bonjour.",
+          "english": "He says hello.",
+          "russian": "Он говорит привет.",
+          "german": "Er sagt hallo.",
+          "spanish": "Él dice hola."
+        },
+        {
+          "example": "Nous disons merci.",
+          "english": "We say thank you.",
+          "russian": "Мы говорим спасибо.",
+          "german": "Wir sagen danke.",
+          "spanish": "Decimos gracias."
+        }
+      ]
     },
     {
       "id": "b427e68c-0827-4219-8c66-f64043567ae6",
@@ -358,7 +795,30 @@
         "russian": "спать",
         "german": "schlafen",
         "spanish": "dormir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je dors huit heures.",
+          "english": "I sleep eight hours.",
+          "russian": "Я сплю восемь часов.",
+          "german": "Ich schlafe acht Stunden.",
+          "spanish": "Duermo ocho horas."
+        },
+        {
+          "example": "Il dort profondément.",
+          "english": "He sleeps deeply.",
+          "russian": "Он спит глубоко.",
+          "german": "Er schläft tief.",
+          "spanish": "Él duerme profundamente."
+        },
+        {
+          "example": "Nous dormons tard.",
+          "english": "We sleep late.",
+          "russian": "Мы спим допоздна.",
+          "german": "Wir schlafen lange.",
+          "spanish": "Dormimos hasta tarde."
+        }
+      ]
     },
     {
       "id": "8d621d00-45d7-4351-be5c-86a8b4bdf0e8",
@@ -376,7 +836,30 @@
         "russian": "писать",
         "german": "schreiben",
         "spanish": "escribir"
-      }
+      },
+      "examples": [
+        {
+          "example": "J'écris une lettre.",
+          "english": "I am writing a letter.",
+          "russian": "Я пишу письмо.",
+          "german": "Ich schreibe einen Brief.",
+          "spanish": "Estoy escribiendo una carta."
+        },
+        {
+          "example": "Elle écrit dans son journal.",
+          "english": "She writes in her journal.",
+          "russian": "Она пишет в своём журнале.",
+          "german": "Sie schreibt in ihrem Tagebuch.",
+          "spanish": "Ella escribe en su diario."
+        },
+        {
+          "example": "Nous écrivons des emails.",
+          "english": "We are writing emails.",
+          "russian": "Мы пишем электронные письма.",
+          "german": "Wir schreiben E-Mails.",
+          "spanish": "Estamos escribiendo correos electrónicos."
+        }
+      ]
     },
     {
       "id": "6d3aaa37-39fb-4b29-a9d5-8d95e13c470e",
@@ -394,7 +877,30 @@
         "russian": "слышать",
         "german": "hören",
         "spanish": "entender"
-      }
+      },
+      "examples": [
+        {
+          "example": "J'entends la musique.",
+          "english": "I hear the music.",
+          "russian": "Я слышу музыку.",
+          "german": "Ich höre die Musik.",
+          "spanish": "Escucho la música."
+        },
+        {
+          "example": "Elle entend un bruit.",
+          "english": "She hears a noise.",
+          "russian": "Она слышит шум.",
+          "german": "Sie hört ein Geräusch.",
+          "spanish": "Ella escucha un ruido."
+        },
+        {
+          "example": "Nous entendons les oiseaux.",
+          "english": "We hear the birds.",
+          "russian": "Мы слышим птиц.",
+          "german": "Wir hören die Vögel.",
+          "spanish": "Escuchamos los pájaros."
+        }
+      ]
     },
     {
       "id": "ea8535ba-cb30-4714-8fce-17cf89242606",
@@ -412,7 +918,30 @@
         "russian": "отправлять",
         "german": "senden",
         "spanish": "enviar"
-      }
+      },
+      "examples": [
+        {
+          "example": "J'envoie un message.",
+          "english": "I am sending a message.",
+          "russian": "Я отправляю сообщение.",
+          "german": "Ich schicke eine Nachricht.",
+          "spanish": "Estoy enviando un mensaje."
+        },
+        {
+          "example": "Elle envoie un email.",
+          "english": "She is sending an email.",
+          "russian": "Она отправляет электронное письмо.",
+          "german": "Sie sendet eine E-Mail.",
+          "spanish": "Ella está enviando un correo electrónico."
+        },
+        {
+          "example": "Nous envoyons des invitations.",
+          "english": "We are sending invitations.",
+          "russian": "Мы отправляем приглашения.",
+          "german": "Wir senden Einladungen.",
+          "spanish": "Estamos enviando invitaciones."
+        }
+      ]
     },
     {
       "id": "d8f70f85-c67e-45c2-afd7-c7a5bb93f051",
@@ -430,7 +959,30 @@
         "russian": "быть",
         "german": "sein",
         "spanish": "estar / ser"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je suis étudiant.",
+          "english": "I am a student.",
+          "russian": "Я студент.",
+          "german": "Ich bin Student.",
+          "spanish": "Soy estudiante."
+        },
+        {
+          "example": "Elle est professeur.",
+          "english": "She is a teacher.",
+          "russian": "Она преподаватель.",
+          "german": "Sie ist Lehrerin.",
+          "spanish": "Ella es profesora."
+        },
+        {
+          "example": "Nous sommes amis.",
+          "english": "We are friends.",
+          "russian": "Мы друзья.",
+          "german": "Wir sind Freunde.",
+          "spanish": "Somos amigos."
+        }
+      ]
     },
     {
       "id": "7b832f84-edd6-43ea-8a51-37316b2aaf9b",
@@ -448,7 +1000,30 @@
         "russian": "делать",
         "german": "machen",
         "spanish": "hacer"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je fais mes devoirs.",
+          "english": "I am doing my homework.",
+          "russian": "Я делаю домашнее задание.",
+          "german": "Ich mache meine Hausaufgaben.",
+          "spanish": "Estoy haciendo mi tarea."
+        },
+        {
+          "example": "Elle fait la cuisine.",
+          "english": "She is cooking.",
+          "russian": "Она готовит.",
+          "german": "Sie kocht.",
+          "spanish": "Ella está cocinando."
+        },
+        {
+          "example": "Nous faisons du sport.",
+          "english": "We are doing sports.",
+          "russian": "Мы занимаемся спортом.",
+          "german": "Wir machen Sport.",
+          "spanish": "Estamos haciendo deporte."
+        }
+      ]
     },
     {
       "id": "db3a33aa-f1b1-42ac-ae3b-3d48e2262a17",
@@ -466,7 +1041,30 @@
         "russian": "заканчивать",
         "german": "beenden",
         "spanish": "acabar / terminar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je finis mon travail.",
+          "english": "I finish my work.",
+          "russian": "Я заканчиваю свою работу.",
+          "german": "Ich beende meine Arbeit.",
+          "spanish": "Termino mi trabajo."
+        },
+        {
+          "example": "Elle finit de lire.",
+          "english": "She finishes reading.",
+          "russian": "Она заканчивает читать.",
+          "german": "Sie hört auf zu lesen.",
+          "spanish": "Ella termina de leer."
+        },
+        {
+          "example": "Nous finissons à cinq heures.",
+          "english": "We finish at five o'clock.",
+          "russian": "Мы заканчиваем в пять часов.",
+          "german": "Wir sind um fünf Uhr fertig.",
+          "spanish": "Terminamos a las cinco."
+        }
+      ]
     },
     {
       "id": "8b39e23d-4fd4-4d84-a2f2-a048c33fc1b4",
@@ -484,7 +1082,30 @@
         "russian": "читать",
         "german": "lesen",
         "spanish": "leer"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je lis un livre.",
+          "english": "I am reading a book.",
+          "russian": "Я читаю книгу.",
+          "german": "Ich lese ein Buch.",
+          "spanish": "Estoy leyendo un libro."
+        },
+        {
+          "example": "Elle lit un magazine.",
+          "english": "She reads a magazine.",
+          "russian": "Она читает журнал.",
+          "german": "Sie liest ein Magazin.",
+          "spanish": "Ella lee una revista."
+        },
+        {
+          "example": "Nous lisons des articles.",
+          "english": "We are reading articles.",
+          "russian": "Мы читаем статьи.",
+          "german": "Wir lesen Artikel.",
+          "spanish": "Estamos leyendo artículos."
+        }
+      ]
     },
     {
       "id": "1b3627db-050b-4e8e-9b0c-20dbb2395a0f",
@@ -502,7 +1123,30 @@
         "russian": "есть",
         "german": "essen",
         "spanish": "comer"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je mange une pomme.",
+          "english": "I am eating an apple.",
+          "russian": "Я ем яблоко.",
+          "german": "Ich esse einen Apfel.",
+          "spanish": "Estoy comiendo una manzana."
+        },
+        {
+          "example": "Nous mangeons au restaurant.",
+          "english": "We are eating at the restaurant.",
+          "russian": "Мы едим в ресторане.",
+          "german": "Wir essen im Restaurant.",
+          "spanish": "Estamos comiendo en el restaurante."
+        },
+        {
+          "example": "Elle mange du pain.",
+          "english": "She is eating bread.",
+          "russian": "Она ест хлеб.",
+          "german": "Sie isst Brot.",
+          "spanish": "Ella está comiendo pan."
+        }
+      ]
     },
     {
       "id": "f88d8b7f-cb30-4dd5-9c54-0052a162dfc5",
@@ -520,7 +1164,30 @@
         "russian": "класть",
         "german": "legen",
         "spanish": "poner"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je mets le livre sur la table.",
+          "english": "I put the book on the table.",
+          "russian": "Я кладу книгу на стол.",
+          "german": "Ich lege das Buch auf den Tisch.",
+          "spanish": "Pongo el libro sobre la mesa."
+        },
+        {
+          "example": "Elle met son manteau.",
+          "english": "She puts on her coat.",
+          "russian": "Она надевает своё пальто.",
+          "german": "Sie zieht ihren Mantel an.",
+          "spanish": "Ella se pone el abrigo."
+        },
+        {
+          "example": "Nous mettons la clé dans la porte.",
+          "english": "We put the key in the door.",
+          "russian": "Мы кладем ключ в дверь.",
+          "german": "Wir stecken den Schlüssel ins Schloss.",
+          "spanish": "Ponemos la llave en la puerta."
+        }
+      ]
     },
     {
       "id": "e3788a02-8962-49db-8551-f9eff563f8ed",
@@ -538,7 +1205,30 @@
         "russian": "умирать",
         "german": "sterben",
         "spanish": "morir(se)"
-      }
+      },
+      "examples": [
+        {
+          "example": "Il meurt de faim.",
+          "english": "He is dying of hunger.",
+          "russian": "Он умирает от голода.",
+          "german": "Er stirbt vor Hunger.",
+          "spanish": "Él muere de hambre."
+        },
+        {
+          "example": "Elle est morte il y a deux ans.",
+          "english": "She died two years ago.",
+          "russian": "Она умерла два года назад.",
+          "german": "Sie ist vor zwei Jahren gestorben.",
+          "spanish": "Ella murió hace dos años."
+        },
+        {
+          "example": "Les plantes meurent sans eau.",
+          "english": "The plants die without water.",
+          "russian": "Растения умирают без воды.",
+          "german": "Die Pflanzen sterben ohne Wasser.",
+          "spanish": "Las plantas mueren sin agua."
+        }
+      ]
     },
     {
       "id": "ff1cc22f-a6b3-4c46-8ff9-03e522096c37",
@@ -556,7 +1246,30 @@
         "russian": "чистить",
         "german": "reinigen",
         "spanish": "limpiar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je nettoie ma chambre.",
+          "english": "I am cleaning my room.",
+          "russian": "Я убираю свою комнату.",
+          "german": "Ich putze mein Zimmer.",
+          "spanish": "Estoy limpiando mi habitación."
+        },
+        {
+          "example": "Elle nettoie la cuisine.",
+          "english": "She is cleaning the kitchen.",
+          "russian": "Она убирает на кухне.",
+          "german": "Sie putzt die Küche.",
+          "spanish": "Ella está limpiando la cocina."
+        },
+        {
+          "example": "Nous nettoyons la voiture.",
+          "english": "We are cleaning the car.",
+          "russian": "Мы моем машину.",
+          "german": "Wir putzen das Auto.",
+          "spanish": "Estamos limpiando el coche."
+        }
+      ]
     },
     {
       "id": "de4ac0d6-17b3-40ae-adc7-e84be9339993",
@@ -574,7 +1287,30 @@
         "russian": "открывать",
         "german": "öffnen",
         "spanish": "abrir"
-      }
+      },
+      "examples": [
+        {
+          "example": "J'ouvre la porte.",
+          "english": "I open the door.",
+          "russian": "Я открываю дверь.",
+          "german": "Ich öffne die Tür.",
+          "spanish": "Abro la puerta."
+        },
+        {
+          "example": "Elle ouvre la fenêtre.",
+          "english": "She opens the window.",
+          "russian": "Она открывает окно.",
+          "german": "Sie öffnet das Fenster.",
+          "spanish": "Ella abre la ventana."
+        },
+        {
+          "example": "Nous ouvrons les cadeaux.",
+          "english": "We open the presents.",
+          "russian": "Мы открываем подарки.",
+          "german": "Wir öffnen die Geschenke.",
+          "spanish": "Abrimos los regalos."
+        }
+      ]
     },
     {
       "id": "470451d2-e4f5-4ee9-a9ac-ccbc8b036547",
@@ -592,7 +1328,30 @@
         "russian": "уходить",
         "german": "gehen",
         "spanish": "partir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je pars à 8 heures.",
+          "english": "I leave at 8 o'clock.",
+          "russian": "Я уезжаю в 8 часов.",
+          "german": "Ich fahre um 8 Uhr.",
+          "spanish": "Me voy a las 8."
+        },
+        {
+          "example": "Elle part en vacances.",
+          "english": "She is going on vacation.",
+          "russian": "Она уезжает в отпуск.",
+          "german": "Sie fährt in den Urlaub.",
+          "spanish": "Ella se va de vacaciones."
+        },
+        {
+          "example": "Nous partons demain.",
+          "english": "We are leaving tomorrow.",
+          "russian": "Мы уезжаем завтра.",
+          "german": "Wir fahren morgen.",
+          "spanish": "Nos vamos mañana."
+        }
+      ]
     },
     {
       "id": "e106dcf4-c9db-4a86-86c0-84d43ae26d1f",
@@ -610,7 +1369,30 @@
         "russian": "думать",
         "german": "denken",
         "spanish": "pensar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je pense à mes vacances.",
+          "english": "I am thinking about my vacation.",
+          "russian": "Я думаю о своём отпуске.",
+          "german": "Ich denke an meinen Urlaub.",
+          "spanish": "Estoy pensando en mis vacaciones."
+        },
+        {
+          "example": "Elle pense à sa famille.",
+          "english": "She thinks about her family.",
+          "russian": "Она думает о своей семье.",
+          "german": "Sie denkt an ihre Familie.",
+          "spanish": "Ella piensa en su familia."
+        },
+        {
+          "example": "Nous pensons que c'est une bonne idée.",
+          "english": "We think it's a good idea.",
+          "russian": "Мы думаем, что это хорошая идея.",
+          "german": "Wir denken, dass es eine gute Idee ist.",
+          "spanish": "Pensamos que es una buena idea."
+        }
+      ]
     },
     {
       "id": "c2e8b622-386e-4fc1-a5a3-82b151ea756f",
@@ -628,7 +1410,30 @@
         "russian": "идти дождь",
         "german": "regnen",
         "spanish": "llover"
-      }
+      },
+      "examples": [
+        {
+          "example": "Il pleut aujourd'hui.",
+          "english": "It is raining today.",
+          "russian": "Сегодня идёт дождь.",
+          "german": "Es regnet heute.",
+          "spanish": "Está lloviendo hoy."
+        },
+        {
+          "example": "Il pleut souvent en hiver.",
+          "english": "It often rains in winter.",
+          "russian": "Часто идёт дождь зимой.",
+          "german": "Es regnet oft im Winter.",
+          "spanish": "Llueve mucho en invierno."
+        },
+        {
+          "example": "Il ne pleut pas en été.",
+          "english": "It doesn't rain in summer.",
+          "russian": "Летом не идёт дождь.",
+          "german": "Es regnet nicht im Sommer.",
+          "spanish": "No llueve en verano."
+        }
+      ]
     },
     {
       "id": "815152c5-d998-44e6-b7c2-4b41baa49dc0",
@@ -646,7 +1451,30 @@
         "russian": "мочь",
         "german": "können",
         "spanish": "poder"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je peux nager.",
+          "english": "I can swim.",
+          "russian": "Я могу плавать.",
+          "german": "Ich kann schwimmen.",
+          "spanish": "Puedo nadar."
+        },
+        {
+          "example": "Elle peut parler anglais.",
+          "english": "She can speak English.",
+          "russian": "Она может говорить по-английски.",
+          "german": "Sie kann Englisch sprechen.",
+          "spanish": "Ella puede hablar inglés."
+        },
+        {
+          "example": "Nous pouvons venir demain.",
+          "english": "We can come tomorrow.",
+          "russian": "Мы можем прийти завтра.",
+          "german": "Wir können morgen kommen.",
+          "spanish": "Podemos venir mañana."
+        }
+      ]
     },
     {
       "id": "f36d4aed-a3bc-48f4-99f6-8b1c9f7f36a9",
@@ -664,7 +1492,30 @@
         "russian": "брать",
         "german": "nehmen",
         "spanish": "tomar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je prends le bus.",
+          "english": "I take the bus.",
+          "russian": "Я езжу на автобусе.",
+          "german": "Ich nehme den Bus.",
+          "spanish": "Tomo el autobús."
+        },
+        {
+          "example": "Elle prend son temps.",
+          "english": "She takes her time.",
+          "russian": "Она не спешит.",
+          "german": "Sie nimmt sich Zeit.",
+          "spanish": "Ella se toma su tiempo."
+        },
+        {
+          "example": "Nous prenons une pause.",
+          "english": "We are taking a break.",
+          "russian": "Мы делаем перерыв.",
+          "german": "Wir machen eine Pause.",
+          "spanish": "Estamos tomando un descanso."
+        }
+      ]
     },
     {
       "id": "3066e974-dd21-456b-b605-477ae189ff71",
@@ -682,7 +1533,30 @@
         "russian": "обещать",
         "german": "versprechen",
         "spanish": "prometer"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je promets de t'aider.",
+          "english": "I promise to help you.",
+          "russian": "Я обещаю помочь тебе.",
+          "german": "Ich verspreche, dir zu helfen.",
+          "spanish": "Prometo ayudarte."
+        },
+        {
+          "example": "Elle promet de revenir.",
+          "english": "She promises to come back.",
+          "russian": "Она обещает вернуться.",
+          "german": "Sie verspricht, zurückzukommen.",
+          "spanish": "Ella promete volver."
+        },
+        {
+          "example": "Nous promettons de réussir.",
+          "english": "We promise to succeed.",
+          "russian": "Мы обещаем добиться успеха.",
+          "german": "Wir versprechen, erfolgreich zu sein.",
+          "spanish": "Prometemos tener éxito."
+        }
+      ]
     },
     {
       "id": "a854c0f1-709e-44d4-aae0-5bbb45fea335",
@@ -700,7 +1574,30 @@
         "russian": "получать",
         "german": "empfangen",
         "spanish": "recibir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je reçois une lettre.",
+          "english": "I receive a letter.",
+          "russian": "Я получаю письмо.",
+          "german": "Ich bekomme einen Brief.",
+          "spanish": "Recibo una carta."
+        },
+        {
+          "example": "Elle reçoit un cadeau.",
+          "english": "She receives a gift.",
+          "russian": "Она получает подарок.",
+          "german": "Sie bekommt ein Geschenk.",
+          "spanish": "Ella recibe un regalo."
+        },
+        {
+          "example": "Nous recevons des invitations.",
+          "english": "We receive invitations.",
+          "russian": "Мы получаем приглашения.",
+          "german": "Wir erhalten Einladungen.",
+          "spanish": "Recibimos invitaciones."
+        }
+      ]
     },
     {
       "id": "6c60b4d7-bbfe-4042-bd17-5e899292828d",
@@ -718,7 +1615,30 @@
         "russian": "успевать",
         "german": "erfolgreich sein",
         "spanish": "tener éxito"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je réussis mes examens.",
+          "english": "I pass my exams.",
+          "russian": "Я сдаю экзамены.",
+          "german": "Ich bestehe meine Prüfungen.",
+          "spanish": "Apruebo mis exámenes."
+        },
+        {
+          "example": "Elle réussit à l'examen.",
+          "english": "She succeeds in the exam.",
+          "russian": "Она сдала экзамен.",
+          "german": "Sie besteht die Prüfung.",
+          "spanish": "Ella aprueba el examen."
+        },
+        {
+          "example": "Nous réussissons notre projet.",
+          "english": "We succeed in our project.",
+          "russian": "Мы успешно завершаем проект.",
+          "german": "Wir haben unser Projekt erfolgreich abgeschlossen.",
+          "spanish": "Tenemos éxito en nuestro proyecto."
+        }
+      ]
     },
     {
       "id": "3d8b6e03-c2c9-48c4-9d48-4fef7fa235cf",
@@ -736,7 +1656,30 @@
         "russian": "размышлять",
         "german": "nachdenken",
         "spanish": "reflexionar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je réfléchis à ta question.",
+          "english": "I am thinking about your question.",
+          "russian": "Я думаю над твоим вопросом.",
+          "german": "Ich denke über deine Frage nach.",
+          "spanish": "Estoy pensando en tu pregunta."
+        },
+        {
+          "example": "Elle réfléchit avant de parler.",
+          "english": "She thinks before speaking.",
+          "russian": "Она думает, прежде чем говорить.",
+          "german": "Sie denkt nach, bevor sie spricht.",
+          "spanish": "Ella piensa antes de hablar."
+        },
+        {
+          "example": "Nous réfléchissons à notre avenir.",
+          "english": "We are thinking about our future.",
+          "russian": "Мы думаем о нашем будущем.",
+          "german": "Wir denken über unsere Zukunft nach.",
+          "spanish": "Estamos pensando en nuestro futuro."
+        }
+      ]
     },
     {
       "id": "e8ae1936-0e83-4e59-8aea-a2793f6d9f2e",
@@ -754,7 +1697,30 @@
         "russian": "смотреть",
         "german": "schauen",
         "spanish": "mirar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je regarde la télévision.",
+          "english": "I am watching television.",
+          "russian": "Я смотрю телевизор.",
+          "german": "Ich sehe fern.",
+          "spanish": "Estoy viendo la televisión."
+        },
+        {
+          "example": "Elle regarde un film.",
+          "english": "She is watching a movie.",
+          "russian": "Она смотрит фильм.",
+          "german": "Sie sieht einen Film.",
+          "spanish": "Ella está viendo una película."
+        },
+        {
+          "example": "Nous regardons les étoiles.",
+          "english": "We are looking at the stars.",
+          "russian": "Мы смотрим на звёзды.",
+          "german": "Wir schauen die Sterne an.",
+          "spanish": "Estamos mirando las estrellas."
+        }
+      ]
     },
     {
       "id": "db4c5e3b-4554-474d-8bce-97d29640b43c",
@@ -772,7 +1738,30 @@
         "russian": "наполнять",
         "german": "füllen",
         "spanish": "llenar"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je remplis le formulaire.",
+          "english": "I fill out the form.",
+          "russian": "Я заполняю форму.",
+          "german": "Ich fülle das Formular aus.",
+          "spanish": "Estoy llenando el formulario."
+        },
+        {
+          "example": "Elle remplit son sac.",
+          "english": "She fills her bag.",
+          "russian": "Она наполняет свою сумку.",
+          "german": "Sie füllt ihre Tasche.",
+          "spanish": "Ella llena su bolso."
+        },
+        {
+          "example": "Nous remplissons les bouteilles.",
+          "english": "We are filling the bottles.",
+          "russian": "Мы наполняем бутылки.",
+          "german": "Wir füllen die Flaschen.",
+          "spanish": "Estamos llenando las botellas."
+        }
+      ]
     },
     {
       "id": "33870290-ec7a-47b9-9805-5635a62d5e9a",
@@ -790,7 +1779,30 @@
         "russian": "возвращать",
         "german": "zurückgeben",
         "spanish": "devolver"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je rends le livre à la bibliothèque.",
+          "english": "I return the book to the library.",
+          "russian": "Я возвращаю книгу в библиотеку.",
+          "german": "Ich bringe das Buch zurück zur Bibliothek.",
+          "spanish": "Devuelvo el libro a la biblioteca."
+        },
+        {
+          "example": "Elle rend visite à ses parents.",
+          "english": "She visits her parents.",
+          "russian": "Она навещает своих родителей.",
+          "german": "Sie besucht ihre Eltern.",
+          "spanish": "Ella visita a sus padres."
+        },
+        {
+          "example": "Nous rendons nos devoirs.",
+          "english": "We hand in our homework.",
+          "russian": "Мы сдаем наше домашнее задание.",
+          "german": "Wir geben unsere Hausaufgaben ab.",
+          "spanish": "Entregamos nuestra tarea."
+        }
+      ]
     },
     {
       "id": "b654cd3b-e78d-4911-abff-39b12a061ead",
@@ -808,7 +1820,30 @@
         "russian": "отвечать",
         "german": "antworten",
         "spanish": "responder"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je réponds à ta question.",
+          "english": "I answer your question.",
+          "russian": "Я отвечаю на твой вопрос.",
+          "german": "Ich beantworte deine Frage.",
+          "spanish": "Respondo a tu pregunta."
+        },
+        {
+          "example": "Elle répond au téléphone.",
+          "english": "She answers the phone.",
+          "russian": "Она отвечает на телефонный звонок.",
+          "german": "Sie antwortet am Telefon.",
+          "spanish": "Ella contesta el teléfono."
+        },
+        {
+          "example": "Nous répondons aux emails.",
+          "english": "We reply to emails.",
+          "russian": "Мы отвечаем на электронные письма.",
+          "german": "Wir antworten auf E-Mails.",
+          "spanish": "Respondemos a los correos electrónicos."
+        }
+      ]
     },
     {
       "id": "204debdb-068c-431c-b416-1b0eb27496a2",
@@ -826,7 +1861,30 @@
         "russian": "чувствовать",
         "german": "fühlen",
         "spanish": "sentir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je ressens de la joie.",
+          "english": "I feel joy.",
+          "russian": "Я чувствую радость.",
+          "german": "Ich fühle Freude.",
+          "spanish": "Siento alegría."
+        },
+        {
+          "example": "Elle ressent de la tristesse.",
+          "english": "She feels sadness.",
+          "russian": "Она чувствует грусть.",
+          "german": "Sie fühlt Traurigkeit.",
+          "spanish": "Ella siente tristeza."
+        },
+        {
+          "example": "Nous ressentons de la fatigue.",
+          "english": "We feel tiredness.",
+          "russian": "Мы чувствуем усталость.",
+          "german": "Wir fühlen Müdigkeit.",
+          "spanish": "Sentimos cansancio."
+        }
+      ]
     },
     {
       "id": "c2c1474f-3c5c-4e59-bc23-ab7b2b898b55",
@@ -844,7 +1902,30 @@
         "russian": "знать",
         "german": "wissen",
         "spanish": "saber"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je sais la réponse.",
+          "english": "I know the answer.",
+          "russian": "Я знаю ответ.",
+          "german": "Ich weiß die Antwort.",
+          "spanish": "Sé la respuesta."
+        },
+        {
+          "example": "Elle sait jouer du piano.",
+          "english": "She knows how to play the piano.",
+          "russian": "Она умеет играть на пианино.",
+          "german": "Sie kann Klavier spielen.",
+          "spanish": "Ella sabe tocar el piano."
+        },
+        {
+          "example": "Nous savons nager.",
+          "english": "We know how to swim.",
+          "russian": "Мы умеем плавать.",
+          "german": "Wir können schwimmen.",
+          "spanish": "Sabemos nadar."
+        }
+      ]
     },
     {
       "id": "0b4e2c76-9f14-4d3c-8ada-9b6858db1804",
@@ -862,7 +1943,30 @@
         "russian": "выходить",
         "german": "ausgehen",
         "spanish": "salir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je sors avec mes amis.",
+          "english": "I go out with my friends.",
+          "russian": "Я выхожу с друзьями.",
+          "german": "Ich gehe mit meinen Freunden aus.",
+          "spanish": "Salgo con mis amigos."
+        },
+        {
+          "example": "Elle sort du bureau.",
+          "english": "She leaves the office.",
+          "russian": "Она выходит из офиса.",
+          "german": "Sie verlässt das Büro.",
+          "spanish": "Ella sale de la oficina."
+        },
+        {
+          "example": "Nous sortons ce soir.",
+          "english": "We are going out tonight.",
+          "russian": "Мы выходим сегодня вечером.",
+          "german": "Wir gehen heute Abend aus.",
+          "spanish": "Salimos esta noche."
+        }
+      ]
     },
     {
       "id": "a5d76341-c970-4d12-83a2-044d3c761d66",
@@ -880,7 +1984,30 @@
         "russian": "держать",
         "german": "halten",
         "spanish": "tener"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je tiens un verre.",
+          "english": "I am holding a glass.",
+          "russian": "Я держу стакан.",
+          "german": "Ich halte ein Glas.",
+          "spanish": "Estoy sosteniendo un vaso."
+        },
+        {
+          "example": "Elle tient son sac.",
+          "english": "She holds her bag.",
+          "russian": "Она держит свою сумку.",
+          "german": "Sie hält ihre Tasche.",
+          "spanish": "Ella sostiene su bolso."
+        },
+        {
+          "example": "Nous tenons la corde.",
+          "english": "We hold the rope.",
+          "russian": "Мы держим веревку.",
+          "german": "Wir halten das Seil.",
+          "spanish": "Sostenemos la cuerda."
+        }
+      ]
     },
     {
       "id": "6ca7e9ec-be39-4f27-a00a-7402010674b9",
@@ -898,7 +2025,30 @@
         "russian": "кашлять",
         "german": "husten",
         "spanish": "toser"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je tousse beaucoup.",
+          "english": "I am coughing a lot.",
+          "russian": "Я много кашляю.",
+          "german": "Ich huste viel.",
+          "spanish": "Estoy tosiendo mucho."
+        },
+        {
+          "example": "Elle tousse à cause du froid.",
+          "english": "She coughs because of the cold.",
+          "russian": "Она кашляет из-за простуды.",
+          "german": "Sie hustet wegen der Kälte.",
+          "spanish": "Ella tose por el frío."
+        },
+        {
+          "example": "Nous toussons parfois.",
+          "english": "We cough sometimes.",
+          "russian": "Мы иногда кашляем.",
+          "german": "Wir husten manchmal.",
+          "spanish": "A veces tosemos."
+        }
+      ]
     },
     {
       "id": "ae97912b-2124-4cd3-80c9-e4061e282a94",
@@ -916,7 +2066,30 @@
         "russian": "продавать",
         "german": "verkaufen",
         "spanish": "vender"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je vends des fruits.",
+          "english": "I sell fruits.",
+          "russian": "Я продаю фрукты.",
+          "german": "Ich verkaufe Früchte.",
+          "spanish": "Vendo frutas."
+        },
+        {
+          "example": "Elle vend sa voiture.",
+          "english": "She is selling her car.",
+          "russian": "Она продает свою машину.",
+          "german": "Sie verkauft ihr Auto.",
+          "spanish": "Ella vende su coche."
+        },
+        {
+          "example": "Nous vendons des livres.",
+          "english": "We sell books.",
+          "russian": "Мы продаем книги.",
+          "german": "Wir verkaufen Bücher.",
+          "spanish": "Vendemos libros."
+        }
+      ]
     },
     {
       "id": "bc327bc9-54b7-45b3-b85e-f016e8f38f73",
@@ -934,7 +2107,30 @@
         "russian": "приходить",
         "german": "kommen",
         "spanish": "venir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je viens de Paris.",
+          "english": "I come from Paris.",
+          "russian": "Я из Парижа.",
+          "german": "Ich komme aus Paris.",
+          "spanish": "Vengo de París."
+        },
+        {
+          "example": "Elle vient chez moi.",
+          "english": "She comes to my house.",
+          "russian": "Она приходит ко мне домой.",
+          "german": "Sie kommt zu mir nach Hause.",
+          "spanish": "Ella viene a mi casa."
+        },
+        {
+          "example": "Nous venons ensemble.",
+          "english": "We are coming together.",
+          "russian": "Мы приходим вместе.",
+          "german": "Wir kommen zusammen.",
+          "spanish": "Venimos juntos."
+        }
+      ]
     },
     {
       "id": "b3517c4d-8e6d-49e7-809d-059701154365",
@@ -952,7 +2148,30 @@
         "russian": "жить",
         "german": "leben",
         "spanish": "vivir"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je vis en France.",
+          "english": "I live in France.",
+          "russian": "Я живу во Франции.",
+          "german": "Ich lebe in Frankreich.",
+          "spanish": "Vivo en Francia."
+        },
+        {
+          "example": "Elle vit avec ses parents.",
+          "english": "She lives with her parents.",
+          "russian": "Она живет с родителями.",
+          "german": "Sie lebt bei ihren Eltern.",
+          "spanish": "Ella vive con sus padres."
+        },
+        {
+          "example": "Nous vivons à Paris.",
+          "english": "We live in Paris.",
+          "russian": "Мы живем в Париже.",
+          "german": "Wir leben in Paris.",
+          "spanish": "Vivimos en París."
+        }
+      ]
     },
     {
       "id": "288e9dd3-64de-4fd4-9803-3306228f05a7",
@@ -970,7 +2189,1038 @@
         "russian": "видеть",
         "german": "sehen",
         "spanish": "ver"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je vois un film.",
+          "english": "I am watching a movie.",
+          "russian": "Я смотрю фильм.",
+          "german": "Ich sehe einen Film.",
+          "spanish": "Estoy viendo una película."
+        },
+        {
+          "example": "Elle voit son ami.",
+          "english": "She sees her friend.",
+          "russian": "Она видит своего друга.",
+          "german": "Sie sieht ihren Freund.",
+          "spanish": "Ella ve a su amigo."
+        },
+        {
+          "example": "Nous voyons la mer.",
+          "english": "We see the sea.",
+          "russian": "Мы видим море.",
+          "german": "Wir sehen das Meer.",
+          "spanish": "Vemos el mar."
+        }
+      ]
+    },
+    {
+      "id": "fc09293e-7600-4704-aaa6-c8ecb1fe2fa4",
+      "french_infinitive": "écouter",
+      "conjugations": {
+        "je": "écoute",
+        "tu": "écoutes",
+        "il/elle": "écoute",
+        "nous": "écoutons",
+        "vous": "écoutez",
+        "ils/elles": "écoutent"
+      },
+      "translations": {
+        "english": "to listen",
+        "russian": "слушать",
+        "german": "zuhören",
+        "spanish": "escuchar",
+        "chineese": "听"
+      },
+      "examples": [
+        {
+          "example": "J'écoute de la musique.",
+          "english": "I listen to music.",
+          "russian": "Я слушаю музыку.",
+          "german": "Ich höre Musik.",
+          "spanish": "Escucho música."
+        },
+        {
+          "example": "Elle écoute la radio.",
+          "english": "She listens to the radio.",
+          "russian": "Она слушает радио.",
+          "german": "Sie hört Radio.",
+          "spanish": "Ella escucha la radio."
+        },
+        {
+          "example": "Nous écoutons attentivement.",
+          "english": "We listen carefully.",
+          "russian": "Мы внимательно слушаем.",
+          "german": "Wir hören aufmerksam zu.",
+          "spanish": "Escuchamos atentamente."
+        }
+      ]
+    },
+    {
+      "id": "10722a2c-5ee2-4692-b2d8-dee4fc1e1e93",
+      "french_infinitive": "habiter",
+      "conjugations": {
+        "je": "habite",
+        "tu": "habites",
+        "il/elle": "habite",
+        "nous": "habitons",
+        "vous": "habitez",
+        "ils/elles": "habitent"
+      },
+      "translations": {
+        "english": "to live",
+        "russian": "жить",
+        "german": "wohnen",
+        "spanish": "vivir",
+        "chineese": "住"
+      },
+      "examples": [
+        {
+          "example": "J'habite à Lyon.",
+          "english": "I live in Lyon.",
+          "russian": "Я живу в Лионе.",
+          "german": "Ich wohne in Lyon.",
+          "spanish": "Vivo en Lyon."
+        },
+        {
+          "example": "Elle habite dans une maison.",
+          "english": "She lives in a house.",
+          "russian": "Она живет в доме.",
+          "german": "Sie wohnt in einem Haus.",
+          "spanish": "Ella vive en una casa."
+        },
+        {
+          "example": "Nous habitons ensemble.",
+          "english": "We live together.",
+          "russian": "Мы живем вместе.",
+          "german": "Wir wohnen zusammen.",
+          "spanish": "Vivimos juntos."
+        }
+      ]
+    },
+    {
+      "id": "79d30e4c-3beb-4e44-9a9d-28927e8e968e",
+      "french_infinitive": "chanter",
+      "conjugations": {
+        "je": "chante",
+        "tu": "chantes",
+        "il/elle": "chante",
+        "nous": "chantons",
+        "vous": "chantez",
+        "ils/elles": "chantent"
+      },
+      "translations": {
+        "english": "to sing",
+        "russian": "петь",
+        "german": "singen",
+        "spanish": "cantar",
+        "chineese": "唱歌"
+      },
+      "examples": [
+        {
+          "example": "Je chante une chanson.",
+          "english": "I sing a song.",
+          "russian": "Я пою песню.",
+          "german": "Ich singe ein Lied.",
+          "spanish": "Canto una canción."
+        },
+        {
+          "example": "Elle chante très bien.",
+          "english": "She sings very well.",
+          "russian": "Она очень хорошо поет.",
+          "german": "Sie singt sehr gut.",
+          "spanish": "Ella canta muy bien."
+        },
+        {
+          "example": "Nous chantons ensemble.",
+          "english": "We sing together.",
+          "russian": "Мы поем вместе.",
+          "german": "Wir singen zusammen.",
+          "spanish": "Cantamos juntos."
+        }
+      ]
+    },
+    {
+      "id": "4e579e49-da8d-4f22-9070-002ca5150d4e",
+      "french_infinitive": "étudier",
+      "conjugations": {
+        "je": "étudie",
+        "tu": "étudies",
+        "il/elle": "étudie",
+        "nous": "étudions",
+        "vous": "étudiez",
+        "ils/elles": "étudient"
+      },
+      "translations": {
+        "english": "to study",
+        "russian": "учиться",
+        "german": "studieren",
+        "spanish": "estudiar",
+        "chineese": "学习"
+      },
+      "examples": [
+        {
+          "example": "J'étudie le français.",
+          "english": "I am studying French.",
+          "russian": "Я учу французский.",
+          "german": "Ich lerne Französisch.",
+          "spanish": "Estoy estudiando francés."
+        },
+        {
+          "example": "Elle étudie à l'université.",
+          "english": "She studies at the university.",
+          "russian": "Она учится в университете.",
+          "german": "Sie studiert an der Universität.",
+          "spanish": "Ella estudia en la universidad."
+        },
+        {
+          "example": "Nous étudions les mathématiques.",
+          "english": "We are studying mathematics.",
+          "russian": "Мы изучаем математику.",
+          "german": "Wir lernen Mathematik.",
+          "spanish": "Estamos estudiando matemáticas."
+        }
+      ]
+    },
+    {
+      "id": "ca580e0a-27df-4ee2-82c6-b092b43b7f10",
+      "french_infinitive": "parler",
+      "conjugations": {
+        "je": "parle",
+        "tu": "parles",
+        "il/elle": "parle",
+        "nous": "parlons",
+        "vous": "parlez",
+        "ils/elles": "parlent"
+      },
+      "translations": {
+        "english": "to speak",
+        "russian": "говорить",
+        "german": "sprechen",
+        "spanish": "hablar",
+        "chineese": "说"
+      },
+      "examples": [
+        {
+          "example": "Je parle français.",
+          "english": "I speak French.",
+          "russian": "Я говорю по-французски.",
+          "german": "Ich spreche Französisch.",
+          "spanish": "Hablo francés."
+        },
+        {
+          "example": "Elle parle avec son frère.",
+          "english": "She speaks with her brother.",
+          "russian": "Она разговаривает со своим братом.",
+          "german": "Sie spricht mit ihrem Bruder.",
+          "spanish": "Ella habla con su hermano."
+        },
+        {
+          "example": "Nous parlons anglais.",
+          "english": "We speak English.",
+          "russian": "Мы говорим по-английски.",
+          "german": "Wir sprechen Englisch.",
+          "spanish": "Hablamos inglés."
+        }
+      ]
+    },
+    {
+      "id": "84222b70-78ea-4e4d-b7fb-4c42d1bab60d",
+      "french_infinitive": "arriver",
+      "conjugations": {
+        "je": "arrive",
+        "tu": "arrives",
+        "il/elle": "arrive",
+        "nous": "arrivons",
+        "vous": "arrivez",
+        "ils/elles": "arrivent"
+      },
+      "translations": {
+        "english": "to arrive",
+        "russian": "прибывать",
+        "german": "ankommen",
+        "spanish": "llegar",
+        "chineese": "到达"
+      },
+      "examples": [
+        {
+          "example": "J'arrive à l'école.",
+          "english": "I arrive at school.",
+          "russian": "Я прихожу в школу.",
+          "german": "Ich komme in der Schule an.",
+          "spanish": "Llego a la escuela."
+        },
+        {
+          "example": "Elle arrive en retard.",
+          "english": "She arrives late.",
+          "russian": "Она опаздывает.",
+          "german": "Sie kommt zu spät.",
+          "spanish": "Ella llega tarde."
+        },
+        {
+          "example": "Nous arrivons bientôt.",
+          "english": "We are arriving soon.",
+          "russian": "Мы скоро приедем.",
+          "german": "Wir kommen bald an.",
+          "spanish": "Llegamos pronto."
+        }
+      ]
+    },
+    {
+      "id": "c610d922-7c39-47cc-92d1-bd9966be7ad5",
+      "french_infinitive": "laver",
+      "conjugations": {
+        "je": "lave",
+        "tu": "laves",
+        "il/elle": "lave",
+        "nous": "lavons",
+        "vous": "lavez",
+        "ils/elles": "lavent"
+      },
+      "translations": {
+        "english": "to wash",
+        "russian": "мыть",
+        "german": "waschen",
+        "spanish": "lavar",
+        "chineese": "洗"
+      },
+      "examples": [
+        {
+          "example": "Je lave les vêtements.",
+          "english": "I wash the clothes.",
+          "russian": "Я стираю одежду.",
+          "german": "Ich wasche die Kleidung.",
+          "spanish": "Lavo la ropa."
+        },
+        {
+          "example": "Elle lave les fenêtres.",
+          "english": "She washes the windows.",
+          "russian": "Она моет окна.",
+          "german": "Sie wäscht die Fenster.",
+          "spanish": "Ella lava las ventanas."
+        },
+        {
+          "example": "Nous lavons la voiture.",
+          "english": "We wash the car.",
+          "russian": "Мы моем машину.",
+          "german": "Wir waschen das Auto.",
+          "spanish": "Lavamos el coche."
+        }
+      ]
+    },
+    {
+      "id": "e3f65254-1dda-4828-95f4-360297365c40",
+      "french_infinitive": "téléphoner",
+      "conjugations": {
+        "je": "téléphone",
+        "tu": "téléphones",
+        "il/elle": "téléphone",
+        "nous": "téléphonons",
+        "vous": "téléphonez",
+        "ils/elles": "téléphonent"
+      },
+      "translations": {
+        "english": "to call",
+        "russian": "звонить",
+        "german": "telefonieren",
+        "spanish": "llamar",
+        "chineese": "打电话"
+      },
+      "examples": [
+        {
+          "example": "Je téléphone à ma mère.",
+          "english": "I call my mother.",
+          "russian": "Я звоню маме.",
+          "german": "Ich telefoniere mit meiner Mutter.",
+          "spanish": "Llamo a mi madre."
+        },
+        {
+          "example": "Elle téléphone à son ami.",
+          "english": "She calls her friend.",
+          "russian": "Она звонит другу.",
+          "german": "Sie ruft ihren Freund an.",
+          "spanish": "Ella llama a su amigo."
+        },
+        {
+          "example": "Nous téléphonons au docteur.",
+          "english": "We are calling the doctor.",
+          "russian": "Мы звоним врачу.",
+          "german": "Wir rufen den Arzt an.",
+          "spanish": "Llamamos al médico."
+        }
+      ]
+    },
+    {
+      "id": "cde8ab00-ddb1-4cf9-81cb-01cb4f6a7a64",
+      "french_infinitive": "présenter",
+      "conjugations": {
+        "je": "présente",
+        "tu": "présentes",
+        "il/elle": "présente",
+        "nous": "présentons",
+        "vous": "présentez",
+        "ils/elles": "présentent"
+      },
+      "translations": {
+        "english": "to present",
+        "russian": "представлять",
+        "german": "präsentieren",
+        "spanish": "presentar",
+        "chineese": "介绍"
+      },
+      "examples": [
+        {
+          "example": "Je présente mon ami.",
+          "english": "I introduce my friend.",
+          "russian": "Я представляю своего друга.",
+          "german": "Ich stelle meinen Freund vor.",
+          "spanish": "Presento a mi amigo."
+        },
+        {
+          "example": "Elle présente son projet.",
+          "english": "She presents her project.",
+          "russian": "Она представляет свой проект.",
+          "german": "Sie präsentiert ihr Projekt.",
+          "spanish": "Ella presenta su proyecto."
+        },
+        {
+          "example": "Nous présentons notre équipe.",
+          "english": "We present our team.",
+          "russian": "Мы представляем нашу команду.",
+          "german": "Wir stellen unser Team vor.",
+          "spanish": "Presentamos a nuestro equipo."
+        }
+      ]
+    },
+    {
+      "id": "dadaefef-c331-494b-87d4-0c8f45a15035",
+      "french_infinitive": "recopier",
+      "conjugations": {
+        "je": "recopie",
+        "tu": "recopies",
+        "il/elle": "recopie",
+        "nous": "recopions",
+        "vous": "recopiez",
+        "ils/elles": "recopient"
+      },
+      "translations": {
+        "english": "to copy",
+        "russian": "переписывать",
+        "german": "abschreiben",
+        "spanish": "copiar",
+        "chineese": "抄写"
+      },
+      "examples": [
+        {
+          "example": "Je recopie le texte.",
+          "english": "I copy the text.",
+          "russian": "Я переписываю текст.",
+          "german": "Ich schreibe den Text ab.",
+          "spanish": "Copio el texto."
+        },
+        {
+          "example": "Elle recopie les notes.",
+          "english": "She copies the notes.",
+          "russian": "Она переписывает записи.",
+          "german": "Sie schreibt die Notizen ab.",
+          "spanish": "Ella copia las notas."
+        },
+        {
+          "example": "Nous recopions l'exercice.",
+          "english": "We copy the exercise.",
+          "russian": "Мы переписываем упражнение.",
+          "german": "Wir schreiben die Übung ab.",
+          "spanish": "Copiamos el ejercicio."
+        }
+      ]
+    },
+    {
+      "id": "da755359-c4a6-46cc-a6d8-0677c2dfd3ea",
+      "french_infinitive": "gagner",
+      "conjugations": {
+        "je": "gagne",
+        "tu": "gagnes",
+        "il/elle": "gagne",
+        "nous": "gagnons",
+        "vous": "gagnez",
+        "ils/elles": "gagnent"
+      },
+      "translations": {
+        "english": "to win/earn",
+        "russian": "выигрывать/зарабатывать",
+        "german": "gewinnen/verdienen",
+        "spanish": "ganar",
+        "chineese": "赢/赚"
+      },
+      "examples": [
+        {
+          "example": "Je gagne le match.",
+          "english": "I win the match.",
+          "russian": "Я выигрываю матч.",
+          "german": "Ich gewinne das Spiel.",
+          "spanish": "Gano el partido."
+        },
+        {
+          "example": "Elle gagne beaucoup d'argent.",
+          "english": "She earns a lot of money.",
+          "russian": "Она зарабатывает много денег.",
+          "german": "Sie verdient viel Geld.",
+          "spanish": "Ella gana mucho dinero."
+        },
+        {
+          "example": "Nous gagnons le concours.",
+          "english": "We win the contest.",
+          "russian": "Мы выигрываем конкурс.",
+          "german": "Wir gewinnen den Wettbewerb.",
+          "spanish": "Ganamos el concurso."
+        }
+      ]
+    },
+    {
+      "id": "cf2ca82e-a675-444a-bdbf-7b14c97bf4ae",
+      "french_infinitive": "trouver",
+      "conjugations": {
+        "je": "trouve",
+        "tu": "trouves",
+        "il/elle": "trouve",
+        "nous": "trouvons",
+        "vous": "trouvez",
+        "ils/elles": "trouvent"
+      },
+      "translations": {
+        "english": "to find",
+        "russian": "находить",
+        "german": "finden",
+        "spanish": "encontrar",
+        "chineese": "找到"
+      },
+      "examples": [
+        {
+          "example": "Je trouve mes clés.",
+          "english": "I find my keys.",
+          "russian": "Я нахожу свои ключи.",
+          "german": "Ich finde meine Schlüssel.",
+          "spanish": "Encuentro mis llaves."
+        },
+        {
+          "example": "Elle trouve une solution.",
+          "english": "She finds a solution.",
+          "russian": "Она находит решение.",
+          "german": "Sie findet eine Lösung.",
+          "spanish": "Ella encuentra una solución."
+        },
+        {
+          "example": "Nous trouvons un bon restaurant.",
+          "english": "We find a good restaurant.",
+          "russian": "Мы находим хороший ресторан.",
+          "german": "Wir finden ein gutes Restaurant.",
+          "spanish": "Encontramos un buen restaurante."
+        }
+      ]
+    },
+    {
+      "id": "ee292aca-5c13-4367-bda0-0d09476971e8",
+      "french_infinitive": "fumer",
+      "conjugations": {
+        "je": "fume",
+        "tu": "fumes",
+        "il/elle": "fume",
+        "nous": "fumons",
+        "vous": "fumez",
+        "ils/elles": "fument"
+      },
+      "translations": {
+        "english": "to smoke",
+        "russian": "курить",
+        "german": "rauchen",
+        "spanish": "fumar",
+        "chineese": "抽烟"
+      },
+      "examples": [
+        {
+          "example": "Je fume parfois.",
+          "english": "I smoke sometimes.",
+          "russian": "Я иногда курю.",
+          "german": "Ich rauche manchmal.",
+          "spanish": "A veces fumo."
+        },
+        {
+          "example": "Elle fume à l'extérieur.",
+          "english": "She smokes outside.",
+          "russian": "Она курит на улице.",
+          "german": "Sie raucht draußen.",
+          "spanish": "Ella fuma afuera."
+        },
+        {
+          "example": "Ils fument rarement.",
+          "english": "They rarely smoke.",
+          "russian": "Они редко курят.",
+          "german": "Sie rauchen selten.",
+          "spanish": "Rara vez fuman."
+        }
+      ]
+    },
+    {
+      "id": "f26bb40b-07de-4ddb-b6a8-21c2c5a4681c",
+      "french_infinitive": "cuisiner",
+      "conjugations": {
+        "je": "cuisine",
+        "tu": "cuisines",
+        "il/elle": "cuisine",
+        "nous": "cuisinons",
+        "vous": "cuisinez",
+        "ils/elles": "cuisinent"
+      },
+      "translations": {
+        "english": "to cook",
+        "russian": "готовить",
+        "german": "kochen",
+        "spanish": "cocinar",
+        "chineese": "做饭"
+      },
+      "examples": [
+        {
+          "example": "Je cuisine un gâteau.",
+          "english": "I am baking a cake.",
+          "russian": "Я пеку торт.",
+          "german": "Ich backe einen Kuchen.",
+          "spanish": "Estoy horneando un pastel."
+        },
+        {
+          "example": "Elle cuisine pour sa famille.",
+          "english": "She cooks for her family.",
+          "russian": "Она готовит для своей семьи.",
+          "german": "Sie kocht für ihre Familie.",
+          "spanish": "Ella cocina para su familia."
+        },
+        {
+          "example": "Nous cuisinons ensemble.",
+          "english": "We cook together.",
+          "russian": "Мы готовим вместе.",
+          "german": "Wir kochen zusammen.",
+          "spanish": "Cocinamos juntos."
+        }
+      ]
+    },
+    {
+      "id": "3b311c90-bf00-4983-a44d-2c658c90d4ab",
+      "french_infinitive": "oublier",
+      "conjugations": {
+        "je": "oublie",
+        "tu": "oublies",
+        "il/elle": "oublie",
+        "nous": "oublions",
+        "vous": "oubliez",
+        "ils/elles": "oublient"
+      },
+      "translations": {
+        "english": "to forget",
+        "russian": "забывать",
+        "german": "vergessen",
+        "spanish": "olvidar",
+        "chineese": "忘记"
+      },
+      "examples": [
+        {
+          "example": "J'oublie souvent les noms.",
+          "english": "I often forget names.",
+          "russian": "Я часто забываю имена.",
+          "german": "Ich vergesse oft Namen.",
+          "spanish": "A menudo olvido los nombres."
+        },
+        {
+          "example": "Elle oublie son sac.",
+          "english": "She forgets her bag.",
+          "russian": "Она забывает свою сумку.",
+          "german": "Sie vergisst ihre Tasche.",
+          "spanish": "Ella olvida su bolso."
+        },
+        {
+          "example": "Nous oublions parfois les devoirs.",
+          "english": "We sometimes forget homework.",
+          "russian": "Мы иногда забываем домашнее задание.",
+          "german": "Wir vergessen manchmal die Hausaufgaben.",
+          "spanish": "A veces olvidamos los deberes."
+        }
+      ]
+    },
+    {
+      "id": "ed17c554-08e4-4803-9ad8-4846d1337fa6",
+      "french_infinitive": "observer",
+      "conjugations": {
+        "je": "observe",
+        "tu": "observes",
+        "il/elle": "observe",
+        "nous": "observons",
+        "vous": "observez",
+        "ils/elles": "observent"
+      },
+      "translations": {
+        "english": "to observe",
+        "russian": "наблюдать",
+        "german": "beobachten",
+        "spanish": "observar",
+        "chineese": "观察"
+      },
+      "examples": [
+        {
+          "example": "J'observe les oiseaux.",
+          "english": "I observe the birds.",
+          "russian": "Я наблюдаю за птицами.",
+          "german": "Ich beobachte die Vögel.",
+          "spanish": "Observo a los pájaros."
+        },
+        {
+          "example": "Elle observe les enfants.",
+          "english": "She observes the children.",
+          "russian": "Она наблюдает за детьми.",
+          "german": "Sie beobachtet die Kinder.",
+          "spanish": "Ella observa a los niños."
+        },
+        {
+          "example": "Nous observons la nature.",
+          "english": "We observe nature.",
+          "russian": "Мы наблюдаем за природой.",
+          "german": "Wir beobachten die Natur.",
+          "spanish": "Observamos la naturaleza."
+        }
+      ]
+    },
+    {
+      "id": "ef172eb9-5cda-40d2-9cd9-491855f6a46a",
+      "french_infinitive": "ennuyer",
+      "conjugations": {
+        "je": "ennuyie",
+        "tu": "ennuyies",
+        "il/elle": "ennuyie",
+        "nous": "ennuyyons",
+        "vous": "ennuyyez",
+        "ils/elles": "ennuyient"
+      },
+      "translations": {
+        "english": "to bore/annoy",
+        "russian": "надоедать",
+        "german": "langweilen",
+        "spanish": "aburrir",
+        "chineese": "使烦恼"
+      },
+      "examples": [
+        {
+          "example": "Je m'ennuie à la maison.",
+          "english": "I am bored at home.",
+          "russian": "Мне скучно дома.",
+          "german": "Mir ist zu Hause langweilig.",
+          "spanish": "Estoy aburrido en casa."
+        },
+        {
+          "example": "Elle s'ennuie en classe.",
+          "english": "She is bored in class.",
+          "russian": "Ей скучно на уроке.",
+          "german": "Ihr ist langweilig im Unterricht.",
+          "spanish": "Ella está aburrida en clase."
+        },
+        {
+          "example": "Nous nous ennuyons parfois.",
+          "english": "We get bored sometimes.",
+          "russian": "Нам иногда бывает скучно.",
+          "german": "Uns ist manchmal langweilig.",
+          "spanish": "A veces nos aburrimos."
+        }
+      ]
+    },
+    {
+      "id": "0744336b-837a-43bf-9d66-8e176f77e509",
+      "french_infinitive": "bavarder",
+      "conjugations": {
+        "je": "bavarde",
+        "tu": "bavardes",
+        "il/elle": "bavarde",
+        "nous": "bavardons",
+        "vous": "bavardez",
+        "ils/elles": "bavardent"
+      },
+      "translations": {
+        "english": "to chat",
+        "russian": "болтать",
+        "german": "plaudern",
+        "spanish": "charlar",
+        "chineese": "聊天"
+      },
+      "examples": [
+        {
+          "example": "Je bavarde avec mes amis.",
+          "english": "I chat with my friends.",
+          "russian": "Я болтаю с друзьями.",
+          "german": "Ich plaudere mit meinen Freunden.",
+          "spanish": "Charlo con mis amigos."
+        },
+        {
+          "example": "Elle bavarde au téléphone.",
+          "english": "She chats on the phone.",
+          "russian": "Она болтает по телефону.",
+          "german": "Sie plaudert am Telefon.",
+          "spanish": "Ella charla por teléfono."
+        },
+        {
+          "example": "Nous bavardons après l'école.",
+          "english": "We chat after school.",
+          "russian": "Мы болтаем после школы.",
+          "german": "Wir plaudern nach der Schule.",
+          "spanish": "Charlamos después de la escuela."
+        }
+      ]
+    },
+    {
+      "id": "e409ccc6-f4fc-484d-8829-36c159bb3eb3",
+      "french_infinitive": "raconter",
+      "conjugations": {
+        "je": "raconte",
+        "tu": "racontes",
+        "il/elle": "raconte",
+        "nous": "racontons",
+        "vous": "racontez",
+        "ils/elles": "racontent"
+      },
+      "translations": {
+        "english": "to tell (a story)",
+        "russian": "рассказывать",
+        "german": "erzählen",
+        "spanish": "contar",
+        "chineese": "讲述"
+      },
+      "examples": [
+        {
+          "example": "Je raconte une histoire.",
+          "english": "I tell a story.",
+          "russian": "Я рассказываю историю.",
+          "german": "Ich erzähle eine Geschichte.",
+          "spanish": "Cuento una historia."
+        },
+        {
+          "example": "Elle raconte son voyage.",
+          "english": "She tells about her trip.",
+          "russian": "Она рассказывает о своей поездке.",
+          "german": "Sie erzählt von ihrer Reise.",
+          "spanish": "Ella cuenta sobre su viaje."
+        },
+        {
+          "example": "Nous racontons une blague.",
+          "english": "We tell a joke.",
+          "russian": "Мы рассказываем шутку.",
+          "german": "Wir erzählen einen Witz.",
+          "spanish": "Contamos un chiste."
+        }
+      ]
+    },
+    {
+      "id": "53752536-f349-47b6-ad8f-e584b65bf22a",
+      "french_infinitive": "rentrer",
+      "conjugations": {
+        "je": "rentre",
+        "tu": "rentres",
+        "il/elle": "rentre",
+        "nous": "rentrons",
+        "vous": "rentrez",
+        "ils/elles": "rentrent"
+      },
+      "translations": {
+        "english": "to return",
+        "russian": "возвращаться",
+        "german": "zurückkehren",
+        "spanish": "regresar",
+        "chineese": "返回"
+      },
+      "examples": [
+        {
+          "example": "Je rentre à la maison.",
+          "english": "I go back home.",
+          "russian": "Я возвращаюсь домой.",
+          "german": "Ich gehe nach Hause zurück.",
+          "spanish": "Vuelvo a casa."
+        },
+        {
+          "example": "Elle rentre tard.",
+          "english": "She comes back late.",
+          "russian": "Она возвращается поздно.",
+          "german": "Sie kommt spät zurück.",
+          "spanish": "Ella regresa tarde."
+        },
+        {
+          "example": "Nous rentrons ensemble.",
+          "english": "We return together.",
+          "russian": "Мы возвращаемся вместе.",
+          "german": "Wir kehren zusammen zurück.",
+          "spanish": "Regresamos juntos."
+        }
+      ]
+    },
+    {
+      "id": "f9505e35-64bb-42a1-9e7b-788cbfb58884",
+      "french_infinitive": "payer",
+      "conjugations": {
+        "je": "payie",
+        "tu": "payies",
+        "il/elle": "payie",
+        "nous": "payyons",
+        "vous": "payyez",
+        "ils/elles": "payient"
+      },
+      "translations": {
+        "english": "to pay",
+        "russian": "платить",
+        "german": "bezahlen",
+        "spanish": "pagar",
+        "chineese": "支付"
+      },
+      "examples": [
+        {
+          "example": "Je paie l'addition.",
+          "english": "I pay the bill.",
+          "russian": "Я оплачиваю счет.",
+          "german": "Ich bezahle die Rechnung.",
+          "spanish": "Pago la cuenta."
+        },
+        {
+          "example": "Elle paie en espèces.",
+          "english": "She pays in cash.",
+          "russian": "Она платит наличными.",
+          "german": "Sie bezahlt bar.",
+          "spanish": "Ella paga en efectivo."
+        },
+        {
+          "example": "Nous payons ensemble.",
+          "english": "We pay together.",
+          "russian": "Мы платим вместе.",
+          "german": "Wir bezahlen zusammen.",
+          "spanish": "Pagamos juntos."
+        }
+      ]
+    },
+    {
+      "id": "4dd46eeb-5e91-43b9-ab74-2116f86865b3",
+      "french_infinitive": "lever",
+      "conjugations": {
+        "je": "levève",
+        "tu": "levèves",
+        "il/elle": "levève",
+        "nous": "levevons",
+        "vous": "levevez",
+        "ils/elles": "levèvent"
+      },
+      "translations": {
+        "english": "to raise",
+        "russian": "поднимать",
+        "german": "heben",
+        "spanish": "levantar",
+        "chineese": "举起"
+      },
+      "examples": [
+        {
+          "example": "Je lève la main.",
+          "english": "I raise my hand.",
+          "russian": "Я поднимаю руку.",
+          "german": "Ich hebe die Hand.",
+          "spanish": "Levanto la mano."
+        },
+        {
+          "example": "Elle lève les yeux.",
+          "english": "She raises her eyes.",
+          "russian": "Она поднимает глаза.",
+          "german": "Sie hebt die Augen.",
+          "spanish": "Ella levanta los ojos."
+        },
+        {
+          "example": "Nous levons les bras.",
+          "english": "We raise our arms.",
+          "russian": "Мы поднимаем руки.",
+          "german": "Wir heben die Arme.",
+          "spanish": "Levantamos los brazos."
+        }
+      ]
+    },
+    {
+      "id": "bd357e34-5ed4-4023-ae4f-404d36063329",
+      "french_infinitive": "préférer",
+      "conjugations": {
+        "je": "préférère",
+        "tu": "préférères",
+        "il/elle": "préférère",
+        "nous": "préférérons",
+        "vous": "préférérez",
+        "ils/elles": "préférèrent"
+      },
+      "translations": {
+        "english": "to prefer",
+        "russian": "предпочитать",
+        "german": "bevorzugen",
+        "spanish": "preferir",
+        "chineese": "更喜欢"
+      },
+      "examples": [
+        {
+          "example": "Je préfère le thé.",
+          "english": "I prefer tea.",
+          "russian": "Я предпочитаю чай.",
+          "german": "Ich bevorzuge Tee.",
+          "spanish": "Prefiero el té."
+        },
+        {
+          "example": "Elle préfère lire.",
+          "english": "She prefers reading.",
+          "russian": "Она предпочитает читать.",
+          "german": "Sie liest lieber.",
+          "spanish": "Ella prefiere leer."
+        },
+        {
+          "example": "Nous préférons rester ici.",
+          "english": "We prefer to stay here.",
+          "russian": "Мы предпочитаем остаться здесь.",
+          "german": "Wir bleiben lieber hier.",
+          "spanish": "Preferimos quedarnos aquí."
+        }
+      ]
+    },
+    {
+      "id": "72f1a4ca-d4b0-4747-b980-5a6d798ad676",
+      "french_infinitive": "travailler",
+      "conjugations": {
+        "je": "travaille",
+        "tu": "travailles",
+        "il/elle": "travaille",
+        "nous": "travaillons",
+        "vous": "travaillez",
+        "ils/elles": "travaillent"
+      },
+      "translations": {
+        "english": "to work",
+        "russian": "работать",
+        "german": "arbeiten",
+        "spanish": "trabajar",
+        "chineese": "工作"
+      },
+      "examples": [
+        {
+          "example": "Je travaille dans un bureau.",
+          "english": "I work in an office.",
+          "russian": "Я работаю в офисе.",
+          "german": "Ich arbeite in einem Büro.",
+          "spanish": "Trabajo en una oficina."
+        },
+        {
+          "example": "Elle travaille le week-end.",
+          "english": "She works on weekends.",
+          "russian": "Она работает по выходным.",
+          "german": "Sie arbeitet am Wochenende.",
+          "spanish": "Ella trabaja los fines de semana."
+        },
+        {
+          "example": "Nous travaillons beaucoup.",
+          "english": "We work a lot.",
+          "russian": "Мы много работаем.",
+          "german": "Wir arbeiten viel.",
+          "spanish": "Trabajamos mucho."
+        }
+      ]
     },
     {
       "id": "ebebd5b6-e4df-4169-88f7-5d8ce058560f",
@@ -988,7 +3238,383 @@
         "russian": "хотеть",
         "german": "wollen",
         "spanish": "querer"
-      }
+      },
+      "examples": [
+        {
+          "example": "Je veux un café.",
+          "english": "I want a coffee.",
+          "russian": "Я хочу кофе.",
+          "german": "Ich möchte einen Kaffee.",
+          "spanish": "Quiero un café."
+        },
+        {
+          "example": "Elle veut voyager.",
+          "english": "She wants to travel.",
+          "russian": "Она хочет путешествовать.",
+          "german": "Sie möchte reisen.",
+          "spanish": "Ella quiere viajar."
+        },
+        {
+          "example": "Nous voulons apprendre.",
+          "english": "We want to learn.",
+          "russian": "Мы хотим учиться.",
+          "german": "Wir wollen lernen.",
+          "spanish": "Queremos aprender."
+        }
+      ]
+    }
+  ],
+  "prepositions": [
+    {
+      "preposition": "à côté de",
+      "image": "path_to_image/a_cote_de.jpg",
+      "examples": [
+        {
+          "example": "Le livre est à côté de la table.",
+          "english": "The book is next to the table.",
+          "russian": "Книга рядом с столом.",
+          "german": "Das Buch ist neben dem Tisch.",
+          "spanish": "El libro está al lado de la mesa."
+        },
+        {
+          "example": "La chaise est à côté de la porte.",
+          "english": "The chair is next to the door.",
+          "russian": "Стул рядом с дверью.",
+          "german": "Der Stuhl ist neben der Tür.",
+          "spanish": "La silla está al lado de la puerta."
+        },
+        {
+          "example": "Le stylo est à côté du cahier.",
+          "english": "The pen is next to the notebook.",
+          "russian": "Ручка рядом с тетрадью.",
+          "german": "Der Stift ist neben dem Heft.",
+          "spanish": "El bolígrafo está al lado del cuaderno."
+        }
+      ]
+    },
+    {
+      "preposition": "sur",
+      "image": "path_to_image/sur.jpg",
+      "examples": [
+        {
+          "example": "Le chat est sur la table.",
+          "english": "The cat is on the table.",
+          "russian": "Кошка на столе.",
+          "german": "Die Katze ist auf dem Tisch.",
+          "spanish": "El gato está sobre la mesa."
+        },
+        {
+          "example": "Le livre est sur la chaise.",
+          "english": "The book is on the chair.",
+          "russian": "Книга на стуле.",
+          "german": "Das Buch ist auf dem Stuhl.",
+          "spanish": "El libro está sobre la silla."
+        },
+        {
+          "example": "Le téléphone est sur le bureau.",
+          "english": "The phone is on the desk.",
+          "russian": "Телефон на столе.",
+          "german": "Das Telefon ist auf dem Schreibtisch.",
+          "spanish": "El teléfono está sobre el escritorio."
+        }
+      ]
+    },
+    {
+      "preposition": "sous",
+      "image": "path_to_image/sous.jpg",
+      "examples": [
+        {
+          "example": "La clé est sous le canapé.",
+          "english": "The key is under the couch.",
+          "russian": "Ключ под диваном.",
+          "german": "Der Schlüssel ist unter dem Sofa.",
+          "spanish": "La llave está debajo del sofá."
+        },
+        {
+          "example": "Le chat est sous la table.",
+          "english": "The cat is under the table.",
+          "russian": "Кошка под столом.",
+          "german": "Die Katze ist unter dem Tisch.",
+          "spanish": "El gato está debajo de la mesa."
+        },
+        {
+          "example": "Il y a un livre sous le lit.",
+          "english": "There is a book under the bed.",
+          "russian": "Книга под кроватью.",
+          "german": "Es gibt ein Buch unter dem Bett.",
+          "spanish": "Hay un libro debajo de la cama."
+        }
+      ]
+    },
+    {
+      "preposition": "devant",
+      "image": "path_to_image/devant.jpg",
+      "examples": [
+        {
+          "example": "Il y a une voiture devant la maison.",
+          "english": "There is a car in front of the house.",
+          "russian": "Перед домом есть машина.",
+          "german": "Vor dem Haus steht ein Auto.",
+          "spanish": "Hay un coche frente a la casa."
+        },
+        {
+          "example": "Le chien est devant la porte.",
+          "english": "The dog is in front of the door.",
+          "russian": "Собака перед дверью.",
+          "german": "Der Hund ist vor der Tür.",
+          "spanish": "El perro está frente a la puerta."
+        },
+        {
+          "example": "Le restaurant est devant le parc.",
+          "english": "The restaurant is in front of the park.",
+          "russian": "Ресторан напротив парка.",
+          "german": "Das Restaurant ist vor dem Park.",
+          "spanish": "El restaurante está frente al parque."
+        }
+      ]
+    },
+    {
+      "preposition": "derrière",
+      "image": "path_to_image/derriere.jpg",
+      "examples": [
+        {
+          "example": "Le jardin est derrière la maison.",
+          "english": "The garden is behind the house.",
+          "russian": "Сад позади дома.",
+          "german": "Der Garten ist hinter dem Haus.",
+          "spanish": "El jardín está detrás de la casa."
+        },
+        {
+          "example": "La voiture est derrière le garage.",
+          "english": "The car is behind the garage.",
+          "russian": "Машина за гаражом.",
+          "german": "Das Auto ist hinter der Garage.",
+          "spanish": "El coche está detrás del garaje."
+        },
+        {
+          "example": "Il y a un arbre derrière la maison.",
+          "english": "There is a tree behind the house.",
+          "russian": "Дерево за домом.",
+          "german": "Hinter dem Haus steht ein Baum.",
+          "spanish": "Hay un árbol detrás de la casa."
+        }
+      ]
+    },
+    {
+      "preposition": "à travers",
+      "image": "path_to_image/a_travers.jpg",
+      "examples": [
+        {
+          "example": "Il marche à travers le parc.",
+          "english": "He walks through the park.",
+          "russian": "Он идет через парк.",
+          "german": "Er geht durch den Park.",
+          "spanish": "Él camina a través del parque."
+        },
+        {
+          "example": "Le vent souffle à travers les arbres.",
+          "english": "The wind blows through the trees.",
+          "russian": "Ветер дует через деревья.",
+          "german": "Der Wind weht durch die Bäume.",
+          "spanish": "El viento sopla a través de los árboles."
+        },
+        {
+          "example": "Elle a regardé à travers la fenêtre.",
+          "english": "She looked through the window.",
+          "russian": "Она посмотрела через окно.",
+          "german": "Sie schaute durch das Fenster.",
+          "spanish": "Ella miró a través de la ventana."
+        }
+      ]
+    },
+    {
+      "preposition": "près de",
+      "image": "path_to_image/près_de.jpg",
+      "examples": [
+        {
+          "example": "La pharmacie est près de la gare.",
+          "english": "The pharmacy is near the station.",
+          "russian": "Аптека рядом с вокзалом.",
+          "german": "Die Apotheke ist in der Nähe des Bahnhofs.",
+          "spanish": "La farmacia está cerca de la estación."
+        },
+        {
+          "example": "Le supermarché est près de l'école.",
+          "english": "The supermarket is near the school.",
+          "russian": "Супермаркет рядом со школой.",
+          "german": "Der Supermarkt ist in der Nähe der Schule.",
+          "spanish": "El supermercado está cerca de la escuela."
+        },
+        {
+          "example": "Le parc est près de la rivière.",
+          "english": "The park is near the river.",
+          "russian": "Парк рядом с рекой.",
+          "german": "Der Park ist in der Nähe des Flusses.",
+          "spanish": "El parque está cerca del río."
+        }
+      ]
+    },
+    {
+      "preposition": "en haut",
+      "image": "path_to_image/en_haut.jpg",
+      "examples": [
+        {
+          "example": "Les enfants jouent en haut.",
+          "english": "The children are playing upstairs.",
+          "russian": "Дети играют наверху.",
+          "german": "Die Kinder spielen oben.",
+          "spanish": "Los niños juegan arriba."
+        },
+        {
+          "example": "Les chambres sont en haut.",
+          "english": "The rooms are upstairs.",
+          "russian": "Комнаты наверху.",
+          "german": "Die Zimmer sind oben.",
+          "spanish": "Las habitaciones están arriba."
+        },
+        {
+          "example": "Le chat est en haut de l'escalier.",
+          "english": "The cat is at the top of the stairs.",
+          "russian": "Кошка на вершине лестницы.",
+          "german": "Die Katze ist oben auf der Treppe.",
+          "spanish": "El gato está en la cima de la escalera."
+        }
+      ]
+    },
+    {
+      "preposition": "en bas",
+      "image": "path_to_image/en_bas.jpg",
+      "examples": [
+        {
+          "example": "Le salon est en bas.",
+          "english": "The living room is downstairs.",
+          "russian": "Гостиная внизу.",
+          "german": "Das Wohnzimmer ist unten.",
+          "spanish": "La sala está abajo."
+        },
+        {
+          "example": "La cuisine est en bas.",
+          "english": "The kitchen is downstairs.",
+          "russian": "Кухня внизу.",
+          "german": "Die Küche ist unten.",
+          "spanish": "La cocina está abajo."
+        },
+        {
+          "example": "Les toilettes sont en bas.",
+          "english": "The toilets are downstairs.",
+          "russian": "Туалет внизу.",
+          "german": "Die Toiletten sind unten.",
+          "spanish": "Los baños están abajo."
+        }
+      ]
+    },
+    {
+      "preposition": "à gauche de",
+      "image": "path_to_image/a_gauche_de.jpg",
+      "examples": [
+        {
+          "example": "Le restaurant est à gauche de la banque.",
+          "english": "The restaurant is on the left of the bank.",
+          "russian": "Ресторан слева от банка.",
+          "german": "Das Restaurant ist links von der Bank.",
+          "spanish": "El restaurante está a la izquierda del banco."
+        },
+        {
+          "example": "Le magasin est à gauche de l'école.",
+          "english": "The store is to the left of the school.",
+          "russian": "Магазин слева от школы.",
+          "german": "Der Laden ist links von der Schule.",
+          "spanish": "La tienda está a la izquierda de la escuela."
+        },
+        {
+          "example": "La voiture est à gauche de la rue.",
+          "english": "The car is on the left side of the street.",
+          "russian": "Машина слева от улицы.",
+          "german": "Das Auto ist auf der linken Seite der Straße.",
+          "spanish": "El coche está a la izquierda de la calle."
+        }
+      ]
+    },
+    {
+      "preposition": "à droite de",
+      "image": "path_to_image/a_droite_de.jpg",
+      "examples": [
+        {
+          "example": "Le cinéma est à droite de la gare.",
+          "english": "The cinema is on the right of the station.",
+          "russian": "Кинотеатр справа от вокзала.",
+          "german": "Das Kino ist rechts vom Bahnhof.",
+          "spanish": "El cine está a la derecha de la estación."
+        },
+        {
+          "example": "Le restaurant est à droite de l'école.",
+          "english": "The restaurant is to the right of the school.",
+          "russian": "Ресторан справа от школы.",
+          "german": "Das Restaurant ist rechts von der Schule.",
+          "spanish": "El restaurante está a la derecha de la escuela."
+        },
+        {
+          "example": "La voiture est à droite de la rue.",
+          "english": "The car is on the right side of the street.",
+          "russian": "Машина справа от улицы.",
+          "german": "Das Auto ist auf der rechten Seite der Straße.",
+          "spanish": "El coche está a la derecha de la calle."
+        }
+      ]
+    },
+    {
+      "preposition": "au-dessus de",
+      "image": "path_to_image/au-dessus_de.jpg",
+      "examples": [
+        {
+          "example": "L'oiseau vole au-dessus de la maison.",
+          "english": "The bird is flying above the house.",
+          "russian": "Птица летит над домом.",
+          "german": "Der Vogel fliegt über dem Haus.",
+          "spanish": "El pájaro vuela sobre la casa."
+        },
+        {
+          "example": "La lampe est au-dessus de la table.",
+          "english": "The lamp is above the table.",
+          "russian": "Лампа над столом.",
+          "german": "Die Lampe ist über dem Tisch.",
+          "spanish": "La lámpara está encima de la mesa."
+        },
+        {
+          "example": "Les nuages sont au-dessus des montagnes.",
+          "english": "The clouds are above the mountains.",
+          "russian": "Облака над горами.",
+          "german": "Die Wolken sind über den Bergen.",
+          "spanish": "Las nubes están sobre las montañas."
+        }
+      ]
+    },
+    {
+      "preposition": "en dessous de",
+      "image": "path_to_image/en_dessous_de.jpg",
+      "examples": [
+        {
+          "example": "Le chat est en dessous du canapé.",
+          "english": "The cat is under the couch.",
+          "russian": "Кошка под диваном.",
+          "german": "Die Katze ist unter dem Sofa.",
+          "spanish": "El gato está debajo del sofá."
+        },
+        {
+          "example": "Le livre est en dessous de la table.",
+          "english": "The book is under the table.",
+          "russian": "Книга под столом.",
+          "german": "Das Buch ist unter dem Tisch.",
+          "spanish": "El libro está debajo de la mesa."
+        },
+        {
+          "example": "Il y a une boîte en dessous du lit.",
+          "english": "There is a box under the bed.",
+          "russian": "Под кроватью коробка.",
+          "german": "Es gibt eine Box unter dem Bett.",
+          "spanish": "Hay una caja debajo de la cama."
+        }
+      ]
     }
   ],
   "other_words": [

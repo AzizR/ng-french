@@ -8,9 +8,10 @@ import { CardComponent } from './card/card.component';
 import { MainComponent } from './pages/main/main.component';
 import { WordDetailComponent } from './pages/word-detail/word-detail.component';
 import { TableComponent } from './table/table.component';
+import { SoundButtonComponent } from './sound-button/sound-button.component';
 
 @NgModule({
-  declarations: [AppComponent, CardComponent, MainComponent, WordDetailComponent, TableComponent],
+  declarations: [AppComponent, CardComponent, MainComponent, WordDetailComponent, TableComponent, SoundButtonComponent],
   imports: [BrowserModule, AppRoutingModule, FormsModule],
   providers: [],
   bootstrap: [AppComponent],

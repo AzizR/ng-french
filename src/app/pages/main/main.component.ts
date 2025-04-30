@@ -1,5 +1,9 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
-import { TranslationLanguage, Verb } from '../../types/word';
+import {
+  PrepositionOfPlace,
+  TranslationLanguage,
+  Verb,
+} from '../../types/word';
 import { DictionaryService } from '../../dictionary.service';
 import { Subscription } from 'rxjs';
 import { TranslationService } from '../../translation.service';
@@ -15,6 +19,7 @@ export class MainComponent implements OnInit, OnDestroy {
   subcriptions = new Subscription();
 
   filteredVerbs: Verb[] = [];
+  filteredPrepositions: PrepositionOfPlace[] = [];
 
   constructor(
     private dictionaryService: DictionaryService,
@@ -29,10 +34,19 @@ export class MainComponent implements OnInit, OnDestroy {
     );
 
     this.subcriptions.add(
+      this.dictionaryService.filteredPrepositions$.subscribe(
+        (preps) => (this.filteredPrepositions = preps)
+      )
+    );
+
+    this.subcriptions.add(
       this.translationService.tanslationLanguage$.subscribe(
         (language) => (this.tanslationLanguage = language)
       )
     );
+
+    const res = this.filteredVerbs.map((verb) => verb.french_infinitive);
+    console.log(res);
   }
 
   ngOnDestroy(): void {

@@ -10,6 +10,14 @@ export interface Word {
   };
 }
 
+type SentenceExample = {
+  example: string;
+  english: string;
+  russian: string;
+  german: string;
+  spanish: string;
+};
+
 export interface Verb {
   id: string;
   french_infinitive: string;
@@ -28,6 +36,13 @@ export interface Verb {
     spanish: string;
     chineese?: string;
   };
+  examples?: SentenceExample[];
+}
+
+export interface PrepositionOfPlace {
+  preposition: string;
+  image: string;
+  examples: SentenceExample[];
 }
 
 export type TranslationLanguage =
